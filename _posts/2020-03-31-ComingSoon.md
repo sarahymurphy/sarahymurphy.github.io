@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming Soon
+title: "Coming Soon"
 date: 2020-03-31
 excerpt: " ... "
 tags: [sample post, test]
