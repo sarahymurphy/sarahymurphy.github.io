@@ -4,7 +4,7 @@ bio:                'Bio'
 description:        "Description"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://avatars0.githubusercontent.com/u/31106286?s=460&u=074cb30b21360f778c76215b745902dc38f97b71&v=4'
+logo:               'https://avatars0.githubusercontent.com/u/31106286?s=460&u=63cf3bbb010452401e8ca71523ccd9dd53dda859&v=4'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
