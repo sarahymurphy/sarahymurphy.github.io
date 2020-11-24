@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 tags:
-date: 2020-05/23
 comments: false
 ---
 
