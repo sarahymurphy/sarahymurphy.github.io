@@ -6,10 +6,8 @@ date: 2020-05-23
 comments: false
 ---
 <center>
-<img src="/images/self.jpg" style="width:128px;height:128px;"> 
+![](self.jpg) ![](flame.jpg)
   
-  
-<img src="/images/flame.jpg" style="width:128px;height:128px;">
 </center>
 I am currently working toward my Ph.D. at Washington State University. I study the interaction between clouds and surface radiation over sea ice using both model output from the Polar Weather Research and Forecasting (Polar WRF) model and measurements from the Norwegian Young Sea Ice experiment (N-ICE2015).
 
