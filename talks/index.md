@@ -5,6 +5,7 @@ tags:
 comments: false
 ---
 # Workshops
+I am a certified Data and Software Carpentry instructor and have been helping with educational workshops since 2017.
 
 ## Reproducible Research Techniques with R - GitHub Pages
 ### November 12 - 20, 2020
