@@ -5,7 +5,7 @@ tags:
 comments: false
 ---
 
-I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with educational workshops since 2017.
+I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with coding/data science workshops since 2017.
 
 ## Reproducible Research Techniques with R - GitHub Pages
 ### November 12 - 20, 2020
