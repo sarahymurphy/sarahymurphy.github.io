@@ -7,6 +7,17 @@ comments: false
 
 I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with coding/data science workshops since 2017.
 
+## Python for Climate and Meteorology - American Meteorological Society Short Course
+### March 2, 4, 9, and 11
+### via Zoom
+- Instructed [functions](https://carpentrieslab.github.io/python-aos-lesson/03-functions/index.html), [GitHub](https://carpentrieslab.github.io/python-aos-lesson/06-github/index.html), and [data provenance](https://carpentrieslab.github.io/python-aos-lesson/09-provenance/index.html).
+- Helped for all other lessons in the [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/).
+
+[Workshop website](https://damienirving.github.io/2021-03-02-ams/)
+
+[AMS Workshop Website](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses1/python-for-climate-and-meteorology/)
+
+
 ## Reproducible Research Techniques with R - GitHub Pages
 ### November 12 - 20, 2020
 ### Pullman, WA via Zoom
