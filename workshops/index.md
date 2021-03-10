@@ -1,14 +1,19 @@
 ---
 layout: page
-title: Workshops
+title: Workshops and Outreach
 tags:
 comments: false
 ---
 
 I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with coding/data science workshops since 2017.
 
+# Reproducible Research Techniques with R - GitHub Pages
+# March 15 - 19, 2020
+
+---
 ## Python for Climate and Meteorology - American Meteorological Society Short Course
-### March 2, 4, 9, and 11
+### March 2, 4, 9, and 11, 2020
+### via GoToMeeting
 
 - Instructed [functions](https://carpentrieslab.github.io/python-aos-lesson/03-functions/index.html), [GitHub](https://carpentrieslab.github.io/python-aos-lesson/06-github/index.html), and [data provenance](https://carpentrieslab.github.io/python-aos-lesson/09-provenance/index.html).
 - Helped for all other lessons in the [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/).
@@ -20,7 +25,7 @@ I am a certified [Data and Software Carpentry](https://carpentries.org/) instruc
 ---
 ## Reproducible Research Techniques with R - GitHub Pages
 ### November 12 - 20, 2020
-### Pullman, WA via Zoom
+### via Zoom
 - Developed GitHub Pages lesson.
 - Lead a 2.5 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
