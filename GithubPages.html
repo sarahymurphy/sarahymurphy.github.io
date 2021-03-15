@@ -1622,6 +1622,7 @@ div.tocify {
 <li>Clone the repository</li>
 </ol>
 <pre><code>  git clone https://github.com/academicpages/academicpages.github.io.git</code></pre>
+<p><br></p>
 <ol start="2" style="list-style-type: decimal">
 <li>Change the name of the directory</li>
 </ol>
@@ -1642,6 +1643,7 @@ div.tocify {
 </ul></li>
 </ul>
 <pre><code>mv academicpages.github.io my_site</code></pre>
+<p><br></p>
 <ol start="3" style="list-style-type: decimal">
 <li>Remove the <code>.git</code> file</li>
 </ol>
@@ -1651,6 +1653,7 @@ div.tocify {
 </ul>
 <pre><code>cd my_site
 rm -r .git</code></pre>
+<p><br></p>
 <ol start="4" style="list-style-type: decimal">
 <li>Initialize this git repository</li>
 </ol>
@@ -1679,6 +1682,7 @@ git commit -m &quot;first commit&quot;
 git branch -m master gh-pages
 git remote add origin &lt;url&gt;
 git push -u origin gh-pages</code></pre>
+<p><br></p>
 <ol start="6" style="list-style-type: decimal">
 <li>Refresh your repository, it should be there! Now, we want to publish our website (or make sure that it published itself) Click <code>settings</code> in the upper right hand corner.</li>
 </ol>
@@ -1818,7 +1822,34 @@ git push -u origin gh-pages</code></pre>
 <p><br></p>
 <div id="editing-_config.yml" class="section level3">
 <h3>Editing <code>_config.yml</code></h3>
-<p>Open the <code>_config.yml</code> document - Edit: - Title - Name - Description - URL - If you are using username.github.io then put this - If you are using username.github.io/path then put this without an ending / - Repository: ‘flame-thecat/flame-thecat’ - You can add any social media you’d like - Twitter - Instagram - Sidebar information - About me - <em>WE WILL CHANGE YOUR AVATAR NEXT</em> - Bio - If there are fields in any of these sections you do not want to include you can either delete or comment them out. - Save this file!</p>
+<p>Open the <code>_config.yml</code> document</p>
+<ul>
+<li>Edit:
+<ul>
+<li>Title</li>
+<li>Name</li>
+<li>Description</li>
+<li>URL
+<ul>
+<li><em>User site:</em> <code>&lt;username&gt;.github.io</code></li>
+<li><em>Project site:</em> <code>&lt;username&gt;.github.io/&lt;directory&gt;</code></li>
+</ul></li>
+<li>Repository: ‘<username>/<directory>’</li>
+</ul></li>
+<li>You can add any social media you’d like
+<ul>
+<li>Twitter</li>
+<li>Instagram</li>
+</ul></li>
+<li>Sidebar information
+<ul>
+<li>About me</li>
+<li><em>We will change your avatar next</em></li>
+<li>Bio</li>
+</ul></li>
+<li>If there are fields in any of these sections you do not want to include you can either delete or comment them out.</li>
+<li>Save this file!</li>
+</ul>
 <p>If you edited this online, we now need to pull this locally. Navigate to your GitHub sites directory in terminal and type the following command:</p>
 <pre><code>git pull origin gh-pages</code></pre>
 <p><br></p>
@@ -1957,8 +1988,8 @@ git push -u origin gh-pages</code></pre>
 <hr />
 <p><br></p>
 </div>
-<div id="git-refreshersummary" class="section level1">
-<h1>Git Refresher/Summary</h1>
+<div id="git-summary" class="section level1">
+<h1>Git Summary</h1>
 <p>Everything in the following summary applies to the command line. For this lesson we will <strong>not</strong> work with accessing GitHub through R studio</p>
 <ul>
 <li><a href="https://swcarpentry.github.io/git-novice/reference.html">A full GitHub lesson can be found here</a></li>
