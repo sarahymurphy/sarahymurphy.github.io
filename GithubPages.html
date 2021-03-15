@@ -1576,9 +1576,12 @@ div.tocify {
 </div>
 
 
+<p><br></p>
 <hr />
+<p><br></p>
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
+<p><br></p>
 <div id="why-use-github-pages" class="section level3">
 <h3>Why use GitHub pages?</h3>
 <ul>
@@ -1588,6 +1591,7 @@ div.tocify {
 <li>Version control</li>
 <li>Can work together with people on a website</li>
 </ul>
+<p><br></p>
 </div>
 <div id="how-does-it-work" class="section level3">
 <h3>How does it work?</h3>
@@ -1595,18 +1599,22 @@ div.tocify {
 <li>Uses Jekyll to convert markdown to HTML</li>
 <li>Constructed using a gh-pages branch of GitHub repository</li>
 </ul>
+<p><br></p>
 <hr />
+<p><br></p>
 </div>
 </div>
 <div id="creating-the-git-repository" class="section level1">
 <h1>Creating the Git Repository</h1>
 <p>Make sure you…<br> 1. Have a <a href="http://www.github.com">GitHub.com</a> account.<br> 2. Can access it from the command line</p>
+<p><br></p>
 <div id="templates" class="section level3">
 <h3>Templates</h3>
 <ul>
 <li>For this tutorial, we’re going to be using the <a href="https://academicpages.github.io/">Academic Pages template</a>.</li>
 <li>There are tons of templates out there to fit whatever kind of website you want to create. I recommend googling this outside of the workshop but following along with Academic Pages.</li>
 </ul>
+<p><br></p>
 </div>
 <div id="local" class="section level3">
 <h3>Local</h3>
@@ -1620,8 +1628,17 @@ div.tocify {
 <ul>
 <li>Note that this will be your URL so make it something meaningful to you. You have two options:
 <ul>
-<li>If you want the URL to be your GitHub <strong>username.github.io</strong>, rename this repository to be your github username.</li>
-<li>If you want your URL to be your GitHub <strong>username.github.io/name/</strong> you can name this directory whatever you would like to appear where ‘name’ is in the URL.</li>
+<li><em>User site</em>:
+<ul>
+<li>URL: <code>&lt;username&gt;.github.io</code></li>
+<li>You need to name your repository both locally and on github <strong><code>&lt;username&gt;.github.io</code></strong> with your GitHub username in the place of <code>&lt;username&gt;</code></li>
+</ul></li>
+<li><em>Project Site</em>:
+<ul>
+<li>URL: <code>&lt;username&gt;.github.io/&lt;repository&gt;</code></li>
+<li><strong><code>&lt;repository&gt;</code></strong> will be the name of your local and remote repository</li>
+<li>Github will know this is a website because you will be using the <code>gh-pages</code> branch</li>
+</ul></li>
 </ul></li>
 </ul>
 <pre><code>mv academicpages.github.io my_site</code></pre>
@@ -1638,6 +1655,7 @@ rm -r .git</code></pre>
 <li>Initialize this git repository</li>
 </ol>
 <pre><code>git init</code></pre>
+<p><br></p>
 </div>
 <div id="on-github" class="section level3">
 <h3>On GitHub</h3>
@@ -1654,18 +1672,18 @@ rm -r .git</code></pre>
 <li>It will bring you to the repository page</li>
 </ol>
 <ul>
-<li><strong>Copy your URL only</strong>, then go to your terminal and do the following commands. Be sure to change the URL to the one you copied.</li>
+<li><strong>Copy your URL only</strong>, then go to your terminal and do the following commands. Be sure to change the <code>&lt;URL&gt;</code> to the one you copied.</li>
 </ul>
 <pre><code>git add .
 git commit -m &quot;first commit&quot;
 git branch -m master gh-pages
-git remote add origin 
-https://github.com/sarahymurphy/test_site.git
+git remote add origin &lt;url&gt;
 git push -u origin gh-pages</code></pre>
 <ol start="6" style="list-style-type: decimal">
 <li>Refresh your repository, it should be there! Now, we want to publish our website (or make sure that it published itself) Click <code>settings</code> in the upper right hand corner.</li>
 </ol>
 <p>Your URL will be either <code>https://USERNAME.github.io/REPONAME/</code> or <code>https://USERNAME.github.io/</code> (if your repository name is your username)</p>
+<p><br></p>
 </div>
 <div id="entirely-online" class="section level3">
 <h3>Entirely online</h3>
@@ -1675,84 +1693,256 @@ git push -u origin gh-pages</code></pre>
 <li>Change the name of your directory by going to Settings &gt; Repository Name<br></li>
 <li>Change the branch to be <code>gh-pages</code><br></li>
 </ol>
+<p><br></p>
+<hr />
+<p><br></p>
+</div>
+</div>
+<div id="structure-and-customization" class="section level1">
+<h1>Structure and Customization</h1>
+<table>
+<thead>
+<tr class="header">
+<th>File Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>CHANGELOG.md</td>
+<td>A log of all changes made by the template maintainer</td>
+</tr>
+<tr class="even">
+<td>CONTRIBUTING.md</td>
+<td>Information about how to contribute to the template</td>
+</tr>
+<tr class="odd">
+<td>Gemfile</td>
+<td>Jekyll management</td>
+</tr>
+<tr class="even">
+<td>LICENSE</td>
+<td>Template use licensing</td>
+</tr>
+<tr class="odd">
+<td>README.md</td>
+<td>This has instructions and information about the template</td>
+</tr>
+<tr class="even">
+<td>_config.dev.yml</td>
+<td>Config development override settings</td>
+</tr>
+<tr class="odd">
+<td>**_config.yml**</td>
+<td><strong>Basic information about your website</strong></td>
+</tr>
+<tr class="even">
+<td>**_data**</td>
+<td><strong>Information about the website</strong></td>
+</tr>
+<tr class="odd">
+<td>**_drafts**</td>
+<td><strong>Draft blog posts</strong></td>
+</tr>
+<tr class="even">
+<td>_includes</td>
+<td>Formatting HTML</td>
+</tr>
+<tr class="odd">
+<td>_layouts</td>
+<td>Formatting HTML</td>
+</tr>
+<tr class="even">
+<td>**_pages**</td>
+<td><strong>Each page’s .html file goes here </strong></td>
+</tr>
+<tr class="odd">
+<td>**_portfolio**</td>
+<td><strong>The ‘Portfolio’ page </strong></td>
+</tr>
+<tr class="even">
+<td>**_posts**</td>
+<td><strong>Home to all blog posts </strong></td>
+</tr>
+<tr class="odd">
+<td>**_publications**</td>
+<td><strong>The ‘Publications’ page </strong></td>
+</tr>
+<tr class="even">
+<td>_sass</td>
+<td>CSS formatting</td>
+</tr>
+<tr class="odd">
+<td>**_talks**</td>
+<td><strong>The ‘Talks’ page</strong></td>
+</tr>
+<tr class="even">
+<td>**_teaching**</td>
+<td><strong>The ‘Teaching’ page</strong></td>
+</tr>
+<tr class="odd">
+<td>assets</td>
+<td>Non-markdown materials such as fonts</td>
+</tr>
+<tr class="even">
+<td>files</td>
+<td>Directory for any spare files</td>
+</tr>
+<tr class="odd">
+<td><strong>images</strong></td>
+<td><strong>Directory for all images used</strong></td>
+</tr>
+<tr class="even">
+<td>markdown_generator</td>
+<td>Converting jupyter notebooks for talk map to markdown</td>
+</tr>
+<tr class="odd">
+<td>package.json</td>
+<td>Information about original theme/licence</td>
+</tr>
+<tr class="even">
+<td>talkmap</td>
+<td>Generates a map of talk locations</td>
+</tr>
+<tr class="odd">
+<td>talkmap.ipynb</td>
+<td>Generates a map of talk locations</td>
+</tr>
+<tr class="even">
+<td>talkmap.py</td>
+<td>Generates a map of talk locations</td>
+</tr>
+</tbody>
+</table>
+<p>Bold indicates that we will edit these files in the workshop. The other files are for formatting. Edit with caution.</p>
+<p><br></p>
+<div id="editing-_config.yml" class="section level3">
+<h3>Editing <code>_config.yml</code></h3>
+<p>Open the <code>_config.yml</code> document - Edit: - Title - Name - Description - URL - If you are using username.github.io then put this - If you are using username.github.io/path then put this without an ending / - Repository: ‘flame-thecat/flame-thecat’ - You can add any social media you’d like - Twitter - Instagram - Sidebar information - About me - <em>WE WILL CHANGE YOUR AVATAR NEXT</em> - Bio - If there are fields in any of these sections you do not want to include you can either delete or comment them out. - Save this file!</p>
+<p>If you edited this online, we now need to pull this locally. Navigate to your GitHub sites directory in terminal and type the following command:</p>
+<pre><code>git pull origin gh-pages</code></pre>
+<p><br></p>
+</div>
+<div id="adding-a-photo" class="section level3">
+<h3>Adding a photo</h3>
+<p>Next we will add a photo for our sidebar. We will do this using the drag and drop method.</p>
+<ul>
+<li>Go to images on the github website</li>
+<li>Add file &gt; upload files</li>
+<li>COPY THE FILE NAME!</li>
+<li>Return to the <code>_config.yml</code> file and paste into the avatar field.</li>
+</ul>
+<p>Now we want to pull locally:</p>
+<pre><code>git pull origin gh-pages</code></pre>
+<p><br></p>
+</div>
+<div id="editing-the-authors" class="section level3">
+<h3>Editing the authors</h3>
+<ul>
+<li>Go into the <code>data</code> directory</li>
+<li>Click <code>authors.yml</code> and edit this information</li>
+</ul>
+<p><br></p>
+<hr />
+<p><br></p>
 </div>
 </div>
 <div id="pages" class="section level1">
 <h1>Pages</h1>
-<p>The pages we will be making are: 1. Publications 2. Talks 3. Teaching 4. Portfolio 5. Blog Posts 6. CV</p>
+<p>The pages we will be making are:</p>
+<ol style="list-style-type: decimal">
+<li>Publications</li>
+<li>Talks</li>
+<li>Teaching</li>
+<li>Portfolio</li>
+<li>Blog Posts</li>
+<li>CV</li>
+</ol>
 <p>Remember your markdown that you learned on day two! Our layout also has a little markdown refresher page, you can view this by looking at the <code>_pages/markdown.md</code> file.</p>
-<div id="editing-the-publications-page" class="section level3">
-<h3>Editing the Publications Page</h3>
+<p><br></p>
+<div id="publications" class="section level3">
+<h3>Publications</h3>
 <ul>
-<li><p>These are located in the <code>_publications</code> folder</p></li>
-<li><p>There is a different file for each publication</p></li>
-<li><p>If you click on one of these we can see there is a header at the top of each file</p></li>
-<li><p>Put in your paper information.</p></li>
-<li><p>What if I delete all my pages? Can I get one back?</p>
+<li>These are located in the <code>_publications</code> folder</li>
+<li>There is a different file for each publication</li>
+<li>If you click on one of these we can see there is a header at the top of each file</li>
+<li>Put in your paper information.</li>
+<li>This page is generated by the <code>_pages/publications.html</code> file</li>
+<li>If you don’t want this page, you don’t need to delete all the entries. I’ll show you have to remove or add pages later on.</li>
+<li><em>What if I delete all my files within the <code>_publications</code> folder? Can I get one back?</em>
 <ul>
-<li>Yes! You can go to the original repository and view the code there. You can then just copy and paste the formatting.</li>
+<li>Yes! You can go to the original repository and view the code there. You can then just copy and paste the formatting. Everything you edit here will remain untouched there, so refer back at any time.</li>
 </ul></li>
-<li><p>If you don’t want this page, you don’t need to delete all the entries. I’ll show you have to remove or add pages later on.</p></li>
-<li><p>This page is generated by the <code>_pages/publications.html</code> file</p></li>
 </ul>
+<p><br></p>
 </div>
 <div id="talks" class="section level3">
 <h3>Talks</h3>
 <ul>
-<li>These located in the <code>_talks</code> folder</li>
-<li>Here, again, we have a different page for each talk or tutorial</li>
-<li>This page is generated by the <code>_pages/talks.html</code> file</li>
+<li>These located in the <code>_talks</code> folder.</li>
+<li>Here, again, we have a different file for each talk or tutorial.</li>
+<li>This page is generated by the <code>_pages/talks.html</code> file.</li>
 </ul>
+<p><br></p>
 </div>
 <div id="teaching" class="section level3">
 <h3>Teaching</h3>
 <ul>
-<li>These are located in the <code>_teaching</code> folder</li>
-<li>Editing this is very similar to the previous two sections</li>
-<li>This page is generated by the <code>_pages/teaching.html</code> file</li>
+<li>These are located in the <code>_teaching</code> folder.</li>
+<li>Editing this is very similar to the previous two sections, with a different file for each entry.</li>
+<li>This page is generated by the <code>_pages/teaching.html</code> file.</li>
 </ul>
+<p><br></p>
 </div>
 <div id="portfolio" class="section level3">
 <h3>Portfolio</h3>
 <ul>
-<li>You can use markdown and HTML files here, you just need to change the file extention.</li>
-<li>This page is generated by the <code>_pages/portfolio.html</code> file</li>
+<li>You can use markdown and HTML files here, you just need to change the file extension.</li>
+<li>Each portfolio item is, again, a different file.</li>
+<li>This page is generated by the <code>_pages/portfolio.html</code> file.</li>
 </ul>
+<p><br></p>
 </div>
 <div id="blog-posts" class="section level3">
 <h3>Blog Posts</h3>
 <ul>
-<li>Your blog posts show up under the <code>_posts</code> directory</li>
-<li>Each post is a different file</li>
+<li>Your blog posts show up under the <code>_posts</code> directory.</li>
+<li>Each post is a different file.</li>
 <li>You can save draft posts in the <code>_drafts</code> directory</li>
 <li>This page is generated by the <code>_pages/year-archive.html</code> file</li>
 </ul>
+<p><br></p>
 </div>
 <div id="cv" class="section level3">
 <h3>CV</h3>
 <ul>
 <li>This does not have it’s own directory, as this is a single page it is in the <code>_pages</code> directory</li>
-<li>This is automatically populated from the other sections. You can add or edit this as you’d like.</li>
+<li>This is automatically populated from the other sections. You can add or edit this as you’d like to change the top few sections (education, skills, …).</li>
 </ul>
+<p><br></p>
 </div>
 <div id="the-homepage" class="section level3">
 <h3>The Homepage</h3>
 <ul>
 <li>Edit <code>_pages/about.md</code>, this is your home page, you can write whatever you want here.</li>
+<li>This is the first page displayed when people visit your website.</li>
 </ul>
+<p><br></p>
 </div>
 <div id="adding-and-removing-pages" class="section level3">
 <h3>Adding and Removing Pages</h3>
 <ul>
-<li>Go into the <code>data</code> directory</li>
-<li>Click <code>navigation.yml</code>
+<li>Go into the <code>data</code> directory.</li>
+<li>Click <code>navigation.yml</code>.
 <ul>
-<li>This is how we add links to our navigation</li>
-<li>All these directories point toward HTML files in the <code>_pages</code> directory</li>
-<li>Remove the markdown.md page</li>
+<li>This is how we add links to our navigation.</li>
+<li>All these directories point toward HTML files in the <code>_pages</code> directory.</li>
+<li>Remove the markdown.md page.</li>
 </ul></li>
 </ul>
+<p><br></p>
 <hr />
+<p><br></p>
 </div>
 </div>
 <div id="terminology" class="section level1">
@@ -1763,7 +1953,65 @@ git push -u origin gh-pages</code></pre>
 <li><strong>branch</strong>: creates a copy of a repository that is still connected to the original. This is useful for keeping an untouched copy of work. Eventually the branch will be merged into the ‘master’ branch. You are in control of everything in this situation.</li>
 <li><strong>clone</strong>: creates a copy of a remote repository. This makes the repository your own, it is no longer connected to the original repository.</li>
 </ul>
+<p><br></p>
 <hr />
+<p><br></p>
+</div>
+<div id="git-refreshersummary" class="section level1">
+<h1>Git Refresher/Summary</h1>
+<p>Everything in the following summary applies to the command line. For this lesson we will <strong>not</strong> work with accessing GitHub through R studio</p>
+<ul>
+<li><a href="https://swcarpentry.github.io/git-novice/reference.html">A full GitHub lesson can be found here</a></li>
+<li><a href="https://training.github.com/">Printable GitHub cheat sheets</a></li>
+</ul>
+<p><br></p>
+<div id="cloning" class="section level3">
+<h3>Cloning</h3>
+<p>This copies a repository to your local directory structure. Automatically sets this as the <code>origin</code> directory.</p>
+<pre><code>git clone &lt;url&gt;</code></pre>
+<p>where <code>&lt;url&gt;</code> is the <code>https</code> url provided by GitHub</p>
+<p><br></p>
+</div>
+<div id="pushing-local-remote" class="section level3">
+<h3>Pushing: Local &gt; Remote</h3>
+<ol style="list-style-type: decimal">
+<li>Add your files to the staging area</li>
+</ol>
+<pre><code>git add </code></pre>
+<p><br></p>
+<ol start="2" style="list-style-type: decimal">
+<li>Commit the changes in the staging area to the local repository history record</li>
+</ol>
+<pre><code>git commit -m &quot;&lt;description&gt;&quot;</code></pre>
+<p>where <code>&lt;description&gt;</code> is a note about your changes.</p>
+<p><br></p>
+<ol start="3" style="list-style-type: decimal">
+<li>Push the data to the remote repository</li>
+</ol>
+<ul>
+<li>Note that this is the command for a <strong>regular repository</strong>.</li>
+</ul>
+<pre><code>git push origin master</code></pre>
+<ul>
+<li>For a <strong>github sites repository</strong> use the following <strong>instead</strong> of the above code.</li>
+</ul>
+<pre><code>git push origin gh-sites</code></pre>
+<p><br></p>
+</div>
+<div id="pulling-remote-local" class="section level3">
+<h3>Pulling: Remote &gt; Local</h3>
+<ul>
+<li>Note that this is the command for a <strong>regular repository</strong>.</li>
+</ul>
+<pre><code>git pull origin master</code></pre>
+<ul>
+<li>For a <strong>github sites repository</strong> use the following <strong>instead</strong> of the above code.</li>
+</ul>
+<pre><code>git pull origin gh-pages</code></pre>
+<p><br></p>
+<hr />
+<p><br></p>
+</div>
 </div>
 <div id="sources-and-resources" class="section level1">
 <h1>Sources and Resources</h1>
