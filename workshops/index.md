@@ -10,6 +10,7 @@ I am a certified [Data and Software Carpentry](https://carpentries.org/) instruc
 ## Upcoming Workshops
 
 ### Reproducible Research Techniques with R - GitHub Pages
+<hr style='margin-top:-1em' />
 March 15 - 19, 2020<br>via Zoom
 - Lead a 4 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website using my own GitHub pages lesson. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
@@ -21,6 +22,7 @@ March 15 - 19, 2020<br>via Zoom
 ## Past Workshops 
 
 ## Python for Climate and Meteorology - American Meteorological Society Short Course
+<hr style='margin-top:-1em' />
 March 2, 4, 9, and 11, 2020, via GoToMeeting
 - Instructed [functions](https://carpentrieslab.github.io/python-aos-lesson/03-functions/index.html), [GitHub](https://carpentrieslab.github.io/python-aos-lesson/06-github/index.html), and [data provenance](https://carpentrieslab.github.io/python-aos-lesson/09-provenance/index.html).
 - Helped for all other lessons in the [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/).
@@ -31,8 +33,12 @@ March 2, 4, 9, and 11, 2020, via GoToMeeting
 
 ---
 ## Reproducible Research Techniques with R - GitHub Pages
+<hr style='margin-top:-1em' />
 ### November 12 - 20, 2020
+<hr style='margin-top:-1em' />
 ### via Zoom
+<hr style='margin-top:-1em' />
+
 - Developed GitHub Pages lesson.
 - Lead a 2.5 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
