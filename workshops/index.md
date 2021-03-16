@@ -5,14 +5,6 @@ tags:
 comments: false
 ---
 
-h2{
-  margin-bottom: 0px;
-}
-p{
-  margin-top: 0px;
-}
-
-
 I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with coding/data science workshops since 2017.
 
 ### Reproducible Research Techniques with R - GitHub Pages
