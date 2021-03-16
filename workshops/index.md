@@ -5,6 +5,9 @@ tags:
 comments: false
 ---
 
+<header style="margin-top: -20px;">
+
+
 I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with coding/data science workshops since 2017.
 
 ## Upcoming Workshops
@@ -33,11 +36,8 @@ March 2, 4, 9, and 11, 2020, via GoToMeeting
 
 ---
 ## Reproducible Research Techniques with R - GitHub Pages
-<hr style='margin-top:-1em' />
 ### November 12 - 20, 2020
-<hr style='margin-top:-1em' />
 ### via Zoom
-<hr style='margin-top:-1em' />
 
 - Developed GitHub Pages lesson.
 - Lead a 2.5 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website. 
