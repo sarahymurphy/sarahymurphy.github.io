@@ -5,8 +5,6 @@ tags:
 comments: false
 ---
 
-<header style="margin-top: -20px;">
-
 
 I am a certified [Data and Software Carpentry](https://carpentries.org/) instructor and have been helping with coding/data science workshops since 2017.
 
