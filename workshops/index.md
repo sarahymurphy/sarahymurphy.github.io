@@ -8,21 +8,27 @@ comments: false
 I am a certified <a href = "https://carpentries.org/">Data and Software Carpentry</a> instructor and have been helping with coding/data science workshops since 2017.
 
 # Upcoming Workshops
+<br><br>
 ## Reproducible Research Techniques with R
-## GitHub Pages<br>
+## GitHub Pages
+
 ### March 15 - 19, 2020
 ### via Zoom
+
 - Lead a 4 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website using my own GitHub pages lesson. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
-<br>
+
 [Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
 
 ---
 
-## Past Workshops 
-
+# Past Workshops 
+<br><br>
 ## Python for Climate and Meteorology - American Meteorological Society Short Course
-March 2, 4, 9, and 11, 2020, via GoToMeeting
+
+### March 2, 4, 9, and 11, 2020
+### via GoToMeeting
+
 - Instructed [functions](https://carpentrieslab.github.io/python-aos-lesson/03-functions/index.html), [GitHub](https://carpentrieslab.github.io/python-aos-lesson/06-github/index.html), and [data provenance](https://carpentrieslab.github.io/python-aos-lesson/09-provenance/index.html).
 - Helped for all other lessons in the [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/).
 
@@ -31,6 +37,7 @@ March 2, 4, 9, and 11, 2020, via GoToMeeting
 [AMS Workshop Website](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses1/python-for-climate-and-meteorology/)
 
 ---
+
 ## Reproducible Research Techniques with R - GitHub Pages
 ### November 12 - 20, 2020
 ### via Zoom
