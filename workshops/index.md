@@ -11,7 +11,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 
 ---
 
-## <div align="center">Upcoming Workshops</div>
+## Upcoming Workshops
 <br><br>
 ### Reproducible Research Techniques with R
 ### GitHub Pages
@@ -26,7 +26,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 
 ---
 
-## <div align="center">Past Workshops</center>
+## Past Workshops
 <br><br>
 ## 2021
 
