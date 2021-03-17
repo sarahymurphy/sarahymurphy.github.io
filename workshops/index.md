@@ -29,6 +29,8 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 ## <div align="center">Past Workshops</center>
 <br><br>
 ## 2021
+
+
 ### Python for Climate and Meteorology - American Meteorological Society Short Course
 
 #### March 2, 4, 9, and 11, 2021
@@ -41,6 +43,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 <br>
 
 ## 2020
+
 ### Reproducible Research Techniques with R 
 ### GitHub Pages
 
@@ -51,10 +54,11 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 - Lead a 2.5 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
 
-[Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)<br><br>
+[Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
 <br>
 
 ## 2019
+
 ### Data Carpentry
 ### Data Organization in Spreadsheets
 
@@ -62,7 +66,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 #### Pullman, WA
 - Lead a two-hour session following [Data Carpentry's Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 
-[Workshop website](https://mbrousil.github.io/2019-10-10-wsu/)<br><br>
+[Workshop website](https://mbrousil.github.io/2019-10-10-wsu/)
 <br>
 
 ### Software Carpentry 
@@ -72,7 +76,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 #### Pullman, WA
 - Lead two two-hour sessions following [Software Carpentry's Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/).
 
-[Workshop webste](https://mbrousil.github.io/2019-04-08-wsu/)<br><br>
+[Workshop webste](https://mbrousil.github.io/2019-04-08-wsu/)
 <br>
 
 ### AAEC Python Workshop
@@ -83,6 +87,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 <br>
 
 ## 2018
+
 ### Data Carpentry
 ### Intro to Python
 
@@ -90,6 +95,6 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 #### Pullman, WA
 - Lead one two-hour session following [Data Carpentry's Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html)
 
-[Workshop website](https://mbrousil.github.io/2018-10-25-wsu/)<br><br>
+[Workshop website](https://mbrousil.github.io/2018-10-25-wsu/)
 
 ---
