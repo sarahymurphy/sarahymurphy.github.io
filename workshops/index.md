@@ -29,7 +29,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 ## Past Workshops
 <br><br>
 ## 2021
-<br>
+
 
 ### Python for Climate and Meteorology - American Meteorological Society Short Course
 
