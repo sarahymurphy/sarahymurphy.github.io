@@ -4,6 +4,8 @@ title: Workshops and Outreach
 tags:
 comments: false
 ---
+
+---
 <br><br>
 I am a certified <a href = "https://carpentries.org/">Data and Software Carpentry</a> instructor and have been helping with coding/data science workshops since 2017.
 <br><br>
