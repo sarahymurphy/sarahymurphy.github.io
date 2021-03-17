@@ -15,7 +15,7 @@ March 15 - 19, 2020<br>via Zoom
 - Lead a 4 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website using my own GitHub pages lesson. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
 <br><br>
-<a href = "https://cereo.wsu.edu/reproducible-r-workshop/>Workshop website</a><br><br>
+<a href = "https://cereo.wsu.edu/reproducible-r-workshop/">Workshop website</a><br><br>
 
 ---
 
