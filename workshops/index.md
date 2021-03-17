@@ -6,7 +6,7 @@ comments: false
 ---
 
 I am a certified <a href = "https://carpentries.org/">Data and Software Carpentry</a> instructor and have been helping with coding/data science workshops since 2017.
-
+<br><br>
 # Upcoming Workshops
 <br><br>
 ## Reproducible Research Techniques with R
