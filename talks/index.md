@@ -4,7 +4,7 @@ title: Presentations
 tags:
 comments: false
 ---
-
+<br><br>
 ## Talks
 - [**An Assessment of Polar WRF Microphysics and Boundary Layer Schemes using Data from the Norwegian Young Sea Ice Experiment**](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/445412)), American Geophysical Union 2018 Fall Meeting, December 14, 2018
 - [**The Impact of Cloud Properties on Young Sea Ice during Three Winter Storms at N-ICE2015**](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/291590), American Geophysical Union 2017 Fall Meeting, December 15, 2017
