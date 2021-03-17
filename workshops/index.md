@@ -5,11 +5,13 @@ tags:
 comments: false
 ---
 
----
 <br><br>
 I am a certified <a href = "https://carpentries.org/">Data and Software Carpentry</a> instructor and have been helping with coding/data science workshops since 2017.
 <br><br>
-## Upcoming Workshops
+
+---
+
+## <div align="center">Upcoming Workshops</div>
 <br><br>
 ### Reproducible Research Techniques with R
 ### GitHub Pages
@@ -24,7 +26,7 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 
 ---
 
-## Past Workshops 
+## <div align="center">Past Workshops</center>
 <br><br>
 ## 2021
 ### Python for Climate and Meteorology - American Meteorological Society Short Course
