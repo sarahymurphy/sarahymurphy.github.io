@@ -11,10 +11,13 @@ I am a certified <a href = "https://carpentries.org/">Data and Software Carpentr
 Tutorials I've written:
 - [GitHub Pages](https://sarahymurphy.github.io/workshops/GithubPages.html)
 <br><br>
+
 ---
 
-## Upcoming Workshops
 <br><br>
+## Upcoming Workshops
+<br>
+
 ### Reproducible Research Techniques with R
 ### GitHub Pages
 
@@ -27,7 +30,7 @@ Tutorials I've written:
 [Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
 
 ---
-
+<br><br>
 ## Past Workshops
 <br>
 
