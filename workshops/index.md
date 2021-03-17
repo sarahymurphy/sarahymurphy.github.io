@@ -5,17 +5,17 @@ tags:
 comments: false
 ---
 
-<br><br>
 I am a certified <a href = "https://carpentries.org/">Data and Software Carpentry</a> instructor and have been helping with coding/data science workshops since 2017.
 
-<h1>Upcoming Workshops</h1><br><br>
-
-<h2>Reproducible Research Techniques with R</h2><br>GitHub Pages<br>
-March 15 - 19, 2020<br>via Zoom
+# Upcoming Workshops
+## Reproducible Research Techniques with R
+## GitHub Pages<br>
+### March 15 - 19, 2020
+### via Zoom
 - Lead a 4 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website using my own GitHub pages lesson. 
 - Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
-<br><br>
-<a href = "https://cereo.wsu.edu/reproducible-r-workshop/">Workshop website</a><br><br>
+<br>
+[Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
 
 ---
 
