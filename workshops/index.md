@@ -22,7 +22,6 @@ March 15 - 19, 2020<br>via Zoom
 ## Past Workshops 
 
 ## Python for Climate and Meteorology - American Meteorological Society Short Course
-<hr style='margin-top:-1em' />
 March 2, 4, 9, and 11, 2020, via GoToMeeting
 - Instructed [functions](https://carpentrieslab.github.io/python-aos-lesson/03-functions/index.html), [GitHub](https://carpentrieslab.github.io/python-aos-lesson/06-github/index.html), and [data provenance](https://carpentrieslab.github.io/python-aos-lesson/09-provenance/index.html).
 - Helped for all other lessons in the [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/).
