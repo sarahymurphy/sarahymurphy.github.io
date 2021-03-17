@@ -30,6 +30,7 @@ Tutorials I've written:
 [Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
 
 ---
+
 <br><br>
 ## Past Workshops
 <br>
