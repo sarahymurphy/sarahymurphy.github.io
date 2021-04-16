@@ -11,7 +11,7 @@ comments: false
 - [**Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment**](https://ams.confex.com/ams/97Annual/webprogram/Paper313194.html), American Meteorological Society 14th Conference on Polar Meteorology and Oceanography as part of the 97th Annual Meeting, January 24, 2017
 
 ## Tutorials
-- [Using Python in RStudio with reticulate](sarahymurphy.github.io/talks/r-reticulate-tutorial.md) presented for R Working Group at Washington State University, April 14 2021.
+- [Using Python in RStudio with reticulate](r-reticulate-tutorial.md) presented for R Working Group at Washington State University, April 14 2021.
 
 
 ## Posters
