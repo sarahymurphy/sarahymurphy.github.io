@@ -10,6 +10,10 @@ comments: false
 - [**The Impact of Cloud Properties on Young Sea Ice during Three Winter Storms at N-ICE2015**](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/291590), American Geophysical Union 2017 Fall Meeting, December 15, 2017
 - [**Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment**](https://ams.confex.com/ams/97Annual/webprogram/Paper313194.html), American Meteorological Society 14th Conference on Polar Meteorology and Oceanography as part of the 97th Annual Meeting, January 24, 2017
 
+## Tutorials
+- Using Python in RStudio with reticulate
+
+
 ## Posters
 - [**Testing boundary layer and cloud parameterizations in the Polar Weather Research and Forecasting model using data from the Norwegian Young Sea ICE (N-ICE2015) cruise**](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/748109), American Geophysical Union 2020 Fall Meeting, December 15, 2020
 - [**Comparison of Atmospheric and Cloud Observations with Model Simulations in Three Seasons during the N-ICE2015 Field Campaign**](https://ams.confex.com/ams/15CLOUD15ATRAD/webprogram/Paper347736.html), American Meteorological Society 15th Conference on Atmospheric Radation, July 11, 2018 
