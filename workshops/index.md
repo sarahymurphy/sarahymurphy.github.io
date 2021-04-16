@@ -18,16 +18,6 @@ Tutorials I've written:
 ## Upcoming Workshops
 <br>
 
-### Reproducible Research Techniques with R
-### GitHub Pages
-
-#### March 15 - 19, 2020
-#### via Zoom
-
-- Lead a 4 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website using my own GitHub pages lesson. 
-- Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
-
-[Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
 
 ---
 
@@ -37,6 +27,19 @@ Tutorials I've written:
 
 ## 2021
 <br>
+### Reproducible Research Techniques with R
+### GitHub Pages
+
+#### March 15 - 19, 2021
+#### via Zoom
+
+- Lead a 4 hour workshop via Zoom guiding participants through creating their own professional GitHub Pages website using my own GitHub pages lesson. 
+- Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
+
+[Workshop website](https://cereo.wsu.edu/reproducible-r-workshop/)
+
+
+<br><br>
 ### Python for Climate and Meteorology - American Meteorological Society Short Course
 
 #### March 2, 4, 9, and 11, 2021
@@ -46,6 +49,8 @@ Tutorials I've written:
 - Helped for all other lessons in the [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/).
 
 [Workshop website](https://damienirving.github.io/2021-03-02-ams/), [AMS Workshop Website](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses1/python-for-climate-and-meteorology/)
+
+Videos: [day one](https://youtu.be/uQZAEPnUZ5o), [day two](https://youtu.be/vVQxr6UaCl4)
 <br><br>
 
 ## 2020
