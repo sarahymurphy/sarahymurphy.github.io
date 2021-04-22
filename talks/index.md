@@ -12,9 +12,9 @@ comments: false
 - **Examining the Climatology of Solar Energy Potential in Vermont**, Vermont Weather & Energy Analytics Project Weather Team Meeting at IBM TJ Watson Research Center, May 2015
 
 ## Tutorials
-- [Using Python in RStudio with reticulate](r-reticulate-tutorial.md) presented for R Working Group at Washington State University, April 14 2021.
-- [GitHub websites](https://www.youtube.com/watch?v=tDdayIT6M2Y) presented for Spring 2021 Reproducible Research with R Workshop (Day 5) at Washington State University, March 19, 2021
-- [GitHub websites](https://www.youtube.com/watch?v=SjY2krSo-80) presented for Fall 2020 Reproducible Research with R Workshop (Day 5) at Washington State University, November 20, 2021
+- [**Using Python in RStudio with reticulate**](r-reticulate-tutorial.md) presented for R Working Group at Washington State University, April 14 2021.
+- [**GitHub websites**](https://www.youtube.com/watch?v=tDdayIT6M2Y) presented for Spring 2021 Reproducible Research with R Workshop (Day 5) at Washington State University, March 19, 2021
+- [**GitHub websites**](https://www.youtube.com/watch?v=SjY2krSo-80) presented for Fall 2020 Reproducible Research with R Workshop (Day 5) at Washington State University, November 20, 2021
 
 ## Posters
 - [**Testing boundary layer and cloud parameterizations in the Polar Weather Research and Forecasting model using data from the Norwegian Young Sea ICE (N-ICE2015) cruise**](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/748109), American Geophysical Union 2020 Fall Meeting, December 15, 2020
