@@ -27,6 +27,19 @@ Tutorials I've written:
 
 ## 2021
 <br>
+### CEREO REU Data Wrangling Workshop
+### Documenting Research with R Markdown
+
+#### June 7 - 8, 2021
+#### via Zoom
+
+- Lead a 2-hour lesson on how to use R Markdown to document your research.
+- Assisted in moderating the Zoom meeting and helping with questions from participants when not instructing.
+- Created and maintained the workshop website.
+
+[Workshop website](https://sarahymurphy.github.io/2021-06-07-cereo-reu-data-wrangling/)
+
+<br><br>
 ### Reproducible Research Techniques with R
 ### GitHub Pages
 
