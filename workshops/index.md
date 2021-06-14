@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_wkshop
 title: Workshops and Outreach
 tags:
 comments: false
@@ -17,7 +17,7 @@ Tutorials I've written:
 <br><br>
 ## Upcoming Workshops
 <br>
-
+No upcoming workshops at this time
 
 ---
 
