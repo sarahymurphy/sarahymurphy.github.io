@@ -1,5 +1,5 @@
 ---
-layout: page_wkshop
+layout: page
 title: Workshops and Outreach
 tags:
 comments: false
@@ -13,6 +13,21 @@ Tutorials I've written:
 <br><br>
 
 ---
+
+         <tr valign = "top">
+            <td bgcolor = "#aaa" width = "50">
+               <b>Main Menu</b><br />
+               HTML<br />
+               PHP<br />
+               PERL...
+            </td>
+            
+            <td bgcolor = "#eee" width = "100" height = "200">
+               Technical and Managerial Tutorials
+            </td>
+         </tr>
+         
+         
 
 <br><br>
 ## Upcoming Workshops
