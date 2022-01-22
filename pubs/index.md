@@ -12,4 +12,4 @@ comments: false
 <br><br>
 
 ## Datasets
-- Walden, V. P., **Murphy, S.**, Hudson, S. R., & Cohen, L. (2017). N-ICE2015 atmospheric turbulent fluxes [Data set]. Norwegian Polar Institute. https://doi.org/10.21334/npolar.2017.298013b7
+- Walden, V. P., **Murphy, S.**, Hudson, S. R., & Cohen, L. (2017). N-ICE2015 atmospheric turbulent fluxes [Data set]. Norwegian Polar Institute. [https://doi.org/10.21334/npolar.2017.298013b7](https://doi.org/10.21334/npolar.2017.298013b7)
