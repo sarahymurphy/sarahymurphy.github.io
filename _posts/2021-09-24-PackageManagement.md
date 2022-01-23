@@ -9,7 +9,7 @@ comments: false
 
 ## A blog post for Washington State University's Python Working Group Blog
 <br><br>
-The majority of this talk is based on talk was based on the <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/index.html">conda user guide</a> and the <a href="https://packaging.python.org/tutorials/installing-packages/">Python Packaging Authority website.</a> </p>
+The majority of this talk is based on talk was based on the <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/index.html">conda user guide</a> and the <a href="https://packaging.python.org/tutorials/installing-packages/">Python Packaging Authority website.</a>
 <br><br>
 
 ---
@@ -458,5 +458,6 @@ conda update spyder</pre>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>This
+- <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/index.html">Conda user guide</a>
+- <a href="https://packaging.python.org/tutorials/installing-packages/">Python Packaging Authority website.</a>
 <!-- /wp:paragraph -->

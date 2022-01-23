@@ -2,7 +2,7 @@
 layout: post
 title: "Using Python in R Studio with Reticulate"
 date: 2021-04-14
-excerpt: "A blog post for Washington State University's R Working Group Blog abotu using Python and R together with Reticulate."
+excerpt: "A blog post for Washington State University's R Working Group Blog about using Python and R together with Reticulate."
 tags: [r, r_working_group]
 comments: false
 ---
