@@ -2,20 +2,20 @@
 layout: post
 title: "Python Intro Day 1"
 date: 2021-09-10
-excerpt: " ... "
-tags: [python]
+excerpt: "A blog post for Washington State University's Python Working Group Blog. This post is the first in a two-part series of introductory python talks for the start of the semester."
+tags: [python, python_working_group]
 comments: false
 ---
 
-# Python Intro Day 1
 ## A blog post for Washington State University's Python Working Group Blog
-
+<br><br>
 This post is the first in a two-part series of introductory python talks for the start of the semester.
 The majority of this talk is based on [Software Capentry's Python Notice Inflammation lesson](https://swcarpentry.github.io/python-novice-inflammation/).
-
+<br><br>
 ---
 
 <p>Watch the <a href="https://youtu.be/5YA29G6BCQw">recording of the presentation here</a>. Presentation by <a href="https://sarahymurphy.github.io/">Sarah Murphy</a> (sarah.y.murphy@wsu.edu). Data used in this lesson can be <a href="https://drive.google.com/drive/folders/1GbdShqmVXEefoFj9j7yYmGxDLMPvpveH?usp=sharing">downloaded here</a>. We will use the inflammation-01.csv file in the Data folder for this lesson.&nbsp;</p>
+
 <h3>Some vocabulary</h3>
 <ul>
 <li><b>Library</b> - Families of code. You can import these to give you extra tools</li>
@@ -26,7 +26,7 @@ The majority of this talk is based on [Software Capentry's Python Notice Inflamm
 <h3>Getting Python on your computer</h3>
 <ul>
 <li>Download Python on it's own (<a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a></li>
-<li>I use Anaconda: <a href="https://www.anaconda.com/">https://www.anaconda.com/</a>. This comes with <b>Jupyter Notebook</b> and <b>Spyder</b>. It also comes with a library manager (c<b>onda</b>).</li>
+<li>I use Anaconda: <a href="https://www.anaconda.com/">https://www.anaconda.com/</a>. This comes with <b>Jupyter Notebook</b> and <b>Spyder</b>. It also comes with a library manager (<b>conda</b>).</li>
 </ul>
 
 <!-- wp:separator {"customColor":"#9c2f19","align":"center","className":"is-style-wide"} -->
