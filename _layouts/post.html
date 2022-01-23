@@ -16,8 +16,8 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
+                    <h1>{{ page.title }}</h1><br><Br>
+                    <h4>{{ page.date | date_to_string }}</h4><br><br>
                     {% if site.reading_time %}
                     <p class="reading-time">
                       <i class="fa fa-clock-o"></i>
@@ -30,7 +30,7 @@ layout: compress
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
-                    </a>
+                    </a><br><br>
                 </div>
                 {{ content }}
                 <div class="entry-meta">
