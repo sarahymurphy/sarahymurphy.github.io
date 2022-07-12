@@ -14,8 +14,8 @@ comments: false
 - **Examining the Climatology of Solar Energy Potential in Vermont**, Vermont Weather & Energy Analytics Project Weather Team Meeting at IBM TJ Watson Research Center, May 2015
 
 ## Programming Tutorials
-- [**Working with netCDF files in xarray**](https://youtu.be/gd-a_GvOG0g) presented for Python Working Group at Washington State University, February 9, 2022
 - [**Using Python and R Together**](https://youtu.be/uu33RZIU8SE) presented for Python Working Group at Washington State University, April 22, 2022
+- [**Working with netCDF files in xarray**](https://youtu.be/gd-a_GvOG0g) presented for Python Working Group at Washington State University, February 9, 2022
 - [**Introduction to Python**](https://youtu.be/Vw0_zAzMhE8) presented for Python Working Group at Washington State University, January 24, 2021
 - [**Package Management**](https://youtu.be/614MJmzlVGY) presented for Python Working Group at Washington State University, September 31, 2021
 - **Introduction to Python [day 1](https://youtu.be/5YA29G6BCQw) and [day 2](https://youtu.be/kh0Pe9UqPkY)** presented for Python Working Group at Washington State Univeristy, September 10 & 17, 2021
