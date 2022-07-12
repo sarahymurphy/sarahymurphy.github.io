@@ -6,9 +6,9 @@ date: 2020-05-23
 comments: false
 ---
 
-
-![self](DSC_0301.jpg)
-
+<center>
+<img src="DSC_0301.jpg" width = "300">
+</center>
 
 I am currently working toward my Ph.D. at Washington State University. I study the interaction between clouds and surface radiation over sea ice using both model output from the Polar Weather Research and Forecasting (Polar WRF) model and measurements from the Norwegian Young Sea Ice experiment (N-ICE2015).
 
@@ -24,5 +24,6 @@ In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
 
-
-![flame](IMG_2761.jpeg)
+<center>
+<img src="IMG_2761.jpeg" width = "300">
+</center>
