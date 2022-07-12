@@ -22,3 +22,6 @@ In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student
 
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
+
+
+![flame](https://github.com/sarahymurphy/sarahymurphy.github.io/blob/master/IMG_2761.jpeg?raw=true)
