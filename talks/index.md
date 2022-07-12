@@ -14,6 +14,7 @@ comments: false
 - **Examining the Climatology of Solar Energy Potential in Vermont**, Vermont Weather & Energy Analytics Project Weather Team Meeting at IBM TJ Watson Research Center, May 2015
 
 ## Programming Tutorials
+- **Introduction to Data-Intensive Research and Public Datasets** presented for Summer 2022 Reproducible Research with R Workshop (Day 1) at Washington State University, June 27, 2022
 - [**Using Python and R Together**](https://youtu.be/uu33RZIU8SE) presented for Python Working Group at Washington State University, April 22, 2022
 - [**Working with netCDF files in xarray**](https://youtu.be/gd-a_GvOG0g) presented for Python Working Group at Washington State University, February 9, 2022
 - [**Introduction to Python**](https://youtu.be/Vw0_zAzMhE8) presented for Python Working Group at Washington State University, January 24, 2021
