@@ -24,6 +24,14 @@ In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
 <br><br>
+
+
+Additionally, I have been involved in a few field experiments, including:
+- **2015** to current - The <a href="">Norwegian Young Sea Ice (NICE)</a> field expiriment doing data analysis and model testing with data collected during the field experiment. I was not present for the field experiment, but my Ph.D. dissertation is focused on analysis and testing of data collected during this field experiment.
+- **2015** & **2017** - The <a href="https://labs.wsu.edu/lar-sensing/icecaps-experiment/">Integrated Characterization of Energy, Atmospheric state, Clouds, and Precipitation at Summit (ICECAPS)</a> field experiment by visiting Summit Station, Greenland once in 2015 and again in 2017 to assist with instrument calibration and testing.
+- **2015** - The <a href="https://www.nssl.noaa.gov/projects/pecan/#:~:text=Plains%20Elevated%20Convection%20At%20Night%20(PECAN)%20is%20a%20large%2C,1%20to%20July%2015%2C%202015.">Plains Elevated Convection at Night (PECAN)</a> field experiment, setting up equipment (mesonet trucks, tornado pods, and dopper on wheels radar trucks) during intensive observing periods (IOP) and doing quality assurance between IOP deployments.
+
+
 <center>
 <img src="IMG_2761.jpeg" width = "100">
 </center>
