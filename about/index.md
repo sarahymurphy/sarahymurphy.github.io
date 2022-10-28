@@ -10,7 +10,7 @@ comments: false
 <img src="DSC_0301.jpg" width = "100">
 </center>
 <br><br>
-I am currently working toward my Ph.D. at Washington State University. I study the interaction between clouds and surface radiation over sea ice using both model output from the Polar Weather Research and Forecasting (Polar WRF) model and measurements from the Norwegian Young Sea Ice experiment (N-ICE2015).
+I am currently working toward my Ph.D. at Washington State University. I study the interaction between clouds and surface radiation over sea ice using both model output from the Polar Weather Research and Forecasting (Polar WRF) model and measurements from the Norwegian Young Sea Ice experiment (N-ICE2015). I also provide virtual technical support for online meetings and conferences through The Conference Exchange (Confex).  
 
 
 I grew up in central Maine and currently live in eastern Washington with my cat, Flame. I collect houseplants and like taking pictures in my free time.
