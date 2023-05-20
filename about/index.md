@@ -12,6 +12,7 @@ comments: false
 <br><br>
 Hello! My name is Sarah and I am currently working as a Physical Scientist for the USGS New England Water Science Center. I recieved my Ph.D. from Washington State University, where my dissertation focused on the interaction between clouds and surface radiation over first-year sea ice in both model output and observatons. I also provide technical support, editing, and client trainings for scientific conferences through The Conference Exchange (Confex).
 
+
 I grew up in central Maine and currently live in eastern Washington with my cat, Flame. I collect houseplants and like taking pictures in my free time.
 
 
@@ -31,5 +32,5 @@ Additionally, I have been involved in a few field experiments, including:
 
 <br><br>
 <center>
-<img src="Sarah2023_1738.jpg" width = "75">
+<img src="Sarah2023-1738.jpg" width = "75">
 </center>
