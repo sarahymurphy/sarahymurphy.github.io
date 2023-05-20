@@ -31,5 +31,5 @@ Additionally, I have been involved in a few field experiments, including:
 
 <br><br>
 <center>
-<img src="Sarah2023_1738.jpeg" width = "75">
+<img src="Sarah2023_1738.jpg" width = "75">
 </center>
