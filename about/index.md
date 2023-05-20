@@ -7,11 +7,10 @@ comments: false
 ---
 <br><br>
 <center>
-<img src="DSC_0301.jpg" width = "100">
+<img src="Sarah2023-1699.jpg" width = "25">
 </center>
 <br><br>
-I am currently working toward my Ph.D. at Washington State University. I study the interaction between clouds and surface radiation over sea ice using both model output from the Polar Weather Research and Forecasting (Polar WRF) model and measurements from the Norwegian Young Sea Ice experiment (N-ICE2015). I also provide virtual technical support for online meetings and conferences through The Conference Exchange (Confex).  
-
+Hello! My name is Sarah and I am currently working as a Physical Scientist for the USGS New England Water Science Center. I recieved my Ph.D. from Washington State University, where my dissertation focused on the interaction between clouds and surface radiation over first-year sea ice in both model output and observatons. I also provide technical support, editing, and client trainings for scientific conferences through The Conference Exchange (Confex).
 
 I grew up in central Maine and currently live in eastern Washington with my cat, Flame. I collect houseplants and like taking pictures in my free time.
 
@@ -32,5 +31,5 @@ Additionally, I have been involved in a few field experiments, including:
 
 <br><br>
 <center>
-<img src="IMG_2761.jpeg" width = "100">
+<img src="Sarah2023_1834.jpeg" width = "25">
 </center>
