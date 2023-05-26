@@ -7,7 +7,7 @@ comments: false
 ---
 <br><br>
 <center>
-<img src="Sarah2023-1699.jpg" width = "25" ALIGN=”right”>
+<img src="Sarah2023-1699.jpg" width = "2" ALIGN=”right”>
 </center>
 <br><br>
 
@@ -33,6 +33,6 @@ Additionally, I have been involved in a few field experiments, including:
 
 <br><br>
 <center>
-<img src="Sarah2023-1738.jpg" width = "25">
+<img src="Sarah2023-1738.jpg" width = "2">
 </center>
 
