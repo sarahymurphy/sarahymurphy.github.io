@@ -7,22 +7,18 @@ comments: false
 ---
 <br><br>
 <img src="Sarah2023-1699.jpg" align="left" width="200px">
-
 Hello! My name is Sarah and I am currently working as a Physical Scientist for the USGS New England Water Science Center. I recieved my Ph.D. from Washington State University, where my dissertation focused on the interaction between clouds and surface radiation over first-year sea ice in both model output and observatons. I also provide technical support, editing, and client trainings for scientific conferences through The Conference Exchange (Confex).
-
 
 I grew up in central Maine and currently live in eastern Washington with my cat, Flame. I collect houseplants and like taking pictures in my free time.
 
-
 In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student Research fellowship, allowing me to perform some of my doctoral research with scientists at the Pacific Northwest National Laboratory.
 
+<img src="Sarah2023-1738.jpg" align="right" width="200px">
 
 [WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award](https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/)
 
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
-
-<img src="Sarah2023-1738.jpg" align="right" width="200px">
 
 Additionally, I have been involved in a few field experiments, including:
 - **2015** to current - The <a href="https://www.npolar.no/en/projects/n-ice2015/">Norwegian Young Sea Ice (NICE)</a> field expiriment doing data analysis and model testing with data collected during the field experiment. I was not present for the field experiment, but my Ph.D. dissertation is focused on analysis and testing of data collected during this field experiment.
