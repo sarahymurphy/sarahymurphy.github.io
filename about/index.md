@@ -33,6 +33,6 @@ Additionally, I have been involved in a few field experiments, including:
 
 <br><br>
 <center>
-<img src="Sarah2023-1738.jpg" width = "2">
+<img src="Sarah2023-1738.jpg" align="left" width="200px"
 </center>
 
