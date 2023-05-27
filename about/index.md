@@ -6,10 +6,7 @@ date: 2020-05-23
 comments: false
 ---
 <br><br>
-<center>
 <img src="Sarah2023-1699.jpg" align="left" width="200px">
-</center>
-<br><br>
 
 Hello! My name is Sarah and I am currently working as a Physical Scientist for the USGS New England Water Science Center. I recieved my Ph.D. from Washington State University, where my dissertation focused on the interaction between clouds and surface radiation over first-year sea ice in both model output and observatons. I also provide technical support, editing, and client trainings for scientific conferences through The Conference Exchange (Confex).
 
@@ -25,6 +22,7 @@ In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
 
+<img src="Sarah2023-1738.jpg" align="left" width="200px"
 
 Additionally, I have been involved in a few field experiments, including:
 - **2015** to current - The <a href="https://www.npolar.no/en/projects/n-ice2015/">Norwegian Young Sea Ice (NICE)</a> field expiriment doing data analysis and model testing with data collected during the field experiment. I was not present for the field experiment, but my Ph.D. dissertation is focused on analysis and testing of data collected during this field experiment.
@@ -32,7 +30,5 @@ Additionally, I have been involved in a few field experiments, including:
 - **2015** - The <a href="https://www.nssl.noaa.gov/projects/pecan/#:~:text=Plains%20Elevated%20Convection%20At%20Night%20(PECAN)%20is%20a%20large%2C,1%20to%20July%2015%2C%202015.">Plains Elevated Convection at Night (PECAN)</a> field experiment, setting up equipment (mesonet trucks, tornado pods, and dopper on wheels radar trucks) during intensive observing periods (IOP) and doing quality assurance between IOP deployments.
 
 <br><br>
-<center>
-<img src="Sarah2023-1738.jpg" align="left" width="200px"
-</center>
+
 
