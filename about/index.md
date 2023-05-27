@@ -7,7 +7,7 @@ comments: false
 ---
 <br><br>
 <center>
-<img src="Sarah2023-1699.jpg" width = "2">
+<img src="Sarah2023-1699.jpg" align="left" width="200px">
 </center>
 <br><br>
 
