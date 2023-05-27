@@ -15,8 +15,8 @@ In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student
 
 <img src="Sarah2023-1738.jpg" align="right" width="250px">
 
-[WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award](https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/)
 
+[WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award](https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/)
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
 
