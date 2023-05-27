@@ -22,7 +22,7 @@ In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
 
-<img src="Sarah2023-1738.jpg" align="left" width="200px">
+<img src="Sarah2023-1738.jpg" align="right" width="200px">
 
 Additionally, I have been involved in a few field experiments, including:
 - **2015** to current - The <a href="https://www.npolar.no/en/projects/n-ice2015/">Norwegian Young Sea Ice (NICE)</a> field expiriment doing data analysis and model testing with data collected during the field experiment. I was not present for the field experiment, but my Ph.D. dissertation is focused on analysis and testing of data collected during this field experiment.
