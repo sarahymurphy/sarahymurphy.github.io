@@ -13,7 +13,7 @@ I grew up in central Maine and currently live in eastern Washington with my cat,
 In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student Research fellowship, allowing me to conduct some of my doctoral research with scientists at the Pacific Northwest National Laboratory.
 
 <br><br>
-<img src = "Sarah2023-1738.jpeg" align = "right" style="margin:20px"><br><br>[WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award](https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/)
+<img src = "Sarah2023-1738.jpeg" align = "right" style="margin:20px"><br>[WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award](https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/)
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
 
@@ -23,5 +23,6 @@ Additionally, I have been involved in a few field experiments, including:
 - **2015** - The <a href="https://www.nssl.noaa.gov/projects/pecan/#:~:text=Plains%20Elevated%20Convection%20At%20Night%20(PECAN)%20is%20a%20large%2C,1%20to%20July%2015%2C%202015.">Plains Elevated Convection at Night (PECAN)</a> field experiment, setting up equipment (mesonet trucks, tornado pods, and dopper on wheels radar trucks) during intensive observing periods (IOP) and doing quality assurance between IOP deployments.
 
 <br><br>
+<img src = "flame.jpeg">
 
 
