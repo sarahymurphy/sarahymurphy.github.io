@@ -13,6 +13,7 @@ I grew up in central Maine and currently live in eastern Washington with my cat,
 
 In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student Research fellowship, allowing me to conduct some of my doctoral research with scientists at the Pacific Northwest National Laboratory.
 
+<br>
 <img src = "Sarah2023-1738.jpeg" align = "right">
 <br><br>
 
