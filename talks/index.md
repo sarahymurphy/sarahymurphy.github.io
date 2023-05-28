@@ -7,6 +7,7 @@ comments: false
 <br><br>
 
 ## Research Talks
+- [**Measurements and Modeling of Arctic Atmospheric Processes During the Norwegian Young Sea Ice Field Campeign**](https://youtube.com/live/RyhSnyoh5zM?feature=share), Washington State University Doctoral Defense Seminar, April 19, 2022
 - [**Evaluation of Polar WRF Boundary Layer and Cloud Microphysics Schemes Using Data from the N-ICE2015 Field Campaign**](https://ams.confex.com/ams/15Polar/meetingapp.cgi/Paper/357933), American Meteorlogical Society 15th Conference on Polar Meteorology and Oceanography, May 21, 2019
 - [**An Assessment of Polar WRF Microphysics and Boundary Layer Schemes using Data from the Norwegian Young Sea Ice Experiment**](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/445412)), American Geophysical Union 2018 Fall Meeting, December 14, 2018
 - [**The Impact of Cloud Properties on Young Sea Ice during Three Winter Storms at N-ICE2015**](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/291590), American Geophysical Union 2017 Fall Meeting, December 15, 2017
