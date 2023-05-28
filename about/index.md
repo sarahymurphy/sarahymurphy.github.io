@@ -14,7 +14,7 @@ I grew up in central Maine and currently live in eastern Washington with my cat,
 In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student Research fellowship, allowing me to conduct some of my doctoral research with scientists at the Pacific Northwest National Laboratory.
 
 <img src = "Sarah2023-1738.jpeg" align = "right">
-
+<br><br>
 [WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award](https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/)
 
 [Sarah Murphy’s Path Leads to PNNL for ASR-Focused Research](https://asr.science.energy.gov/news/program-news/post/12974)
