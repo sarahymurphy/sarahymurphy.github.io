@@ -11,7 +11,7 @@ Hello! My name is Sarah and I am currently working as a Physical Scientist for t
 
 I grew up in central Maine and currently live in eastern Washington with my cat, Flame. I collect houseplants and like taking pictures in my free time.
 
-In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student Research fellowship, allowing me to perform some of my doctoral research with scientists at the Pacific Northwest National Laboratory.
+In 2020 I was awarded a Departmnent of Energy Office of Science Graduate Student Research fellowship, allowing me to conduct some of my doctoral research with scientists at the Pacific Northwest National Laboratory.
 
 <img src="Sarah2023-1738.jpeg" align="right">
 <br>
