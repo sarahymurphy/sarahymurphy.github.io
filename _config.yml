@@ -39,7 +39,7 @@ google:
 #bing-verify:
 email:              sarah.y.murphy@wsu.edu
 #twitter:            username
-orchid:           0000-0001-5646-0936
+#orchid:           0000-0001-5646-0936
 github-url:         sarahymurphy
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          sarahymurphy
@@ -60,7 +60,7 @@ flickr:            sarahymurphy
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-inaturalist:        sarahymurphy
+#inaturalist:        sarahymurphy
 
 # Gems
 gems:
