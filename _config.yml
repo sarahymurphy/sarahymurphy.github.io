@@ -1,6 +1,6 @@
 # Site
 title:              Sarah Y. Murphy, Ph.D.
-bio:                'SarahYvetteMurphy@gmail.com'
+bio:                "SarahYvetteMurphy@gmail.com<br><a href='https://orcid.org/0000-0001-5646-0936' aria-label='View ORCID record'><img src='ORCID-iD_icon-vector.svg'>0000-0002-2771-9344</a>"
 description:        ""
 reading_time:       false
 words_per_minute:   200
@@ -39,7 +39,7 @@ google:
 #bing-verify:
 email:              sarahyvettemurphy@gmail.com
 #twitter:            username
-orcid:           0000-0001-5646-0936
+#orcid:           0000-0001-5646-0936
 github-url:         sarahymurphy
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          sarahymurphy
