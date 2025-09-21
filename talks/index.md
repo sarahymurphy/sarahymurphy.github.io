@@ -6,7 +6,7 @@ comments: false
 ---
 <br><br>
 
-## Research Talks
+## Science Talks
 - [**Measurements and Modeling of Arctic Atmospheric Processes During the Norwegian Young Sea Ice Field Campeign**](https://youtube.com/live/RyhSnyoh5zM?feature=share), Washington State University Doctoral Defense Seminar, 19 April 2022
 - **Evaluation of sensible and latent heat fluxes over first-year sea ice estimated in the Weather Research and Forecasting model against N-ICE observations**, American Meteorological Society 103rd Annual Meeting, 11 January 2023
 - [**Evaluation of Polar WRF Boundary Layer and Cloud Microphysics Schemes Using Data from the N-ICE2015 Field Campaign**](https://ams.confex.com/ams/15Polar/meetingapp.cgi/Paper/357933), American Meteorlogical Society 15th Conference on Polar Meteorology and Oceanography, 21 May 2019
