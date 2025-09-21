@@ -88,11 +88,13 @@ body {
     @media #{$small} {
         width: 100%;
         box-shadow: none;
+		background-color: rgba(255, 255, 255, 0.85);
     }
     @media #{$medium} {
         width: 80%;
         // height: 78.9%;
         border-radius: 3%;
+		background-color: rgba(255, 255, 255, 0.85);
     }
 }
 .row {
