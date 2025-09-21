@@ -7,8 +7,9 @@ comments: false
 <br><br>
 
 ## Science Talks
-- [**Measurements and Modeling of Arctic Atmospheric Processes During the Norwegian Young Sea Ice Field Campeign**](https://youtube.com/live/RyhSnyoh5zM?feature=share), Washington State University Doctoral Defense Seminar, 19 April 2022
-- **Evaluation of sensible and latent heat fluxes over first-year sea ice estimated in the Weather Research and Forecasting model against N-ICE observations**, American Meteorological Society 103rd Annual Meeting, 11 January 2023
+
+- [**Measurements and Modeling of Arctic Atmospheric Processes During the Norwegian Young Sea Ice Field Campeign**](https://youtube.com/live/RyhSnyoh5zM?feature=share), Washington State University Doctoral Defense Seminar, 19 April 2023
+- [**Evaluation of sensible and latent heat fluxes over first-year sea ice estimated in the Weather Research and Forecasting model against N-ICE observations**](https://ui.adsabs.harvard.edu/abs/2023AMS...10311822M/abstract), American Meteorological Society 103rd Annual Meeting, 11 January 2023
 - [**Evaluation of Polar WRF Boundary Layer and Cloud Microphysics Schemes Using Data from the N-ICE2015 Field Campaign**](https://ams.confex.com/ams/15Polar/meetingapp.cgi/Paper/357933), American Meteorlogical Society 15th Conference on Polar Meteorology and Oceanography, 21 May 2019
 - [**An Assessment of Polar WRF Microphysics and Boundary Layer Schemes using Data from the Norwegian Young Sea Ice Experiment**](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/445412)), American Geophysical Union 2018 Fall Meeting, 14 December 2018
 - [**The Impact of Cloud Properties on Young Sea Ice during Three Winter Storms at N-ICE2015**](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/291590), American Geophysical Union 2017 Fall Meeting, 15 December 2017
@@ -30,6 +31,8 @@ comments: false
 - [**GitHub websites**](https://www.youtube.com/watch?v=SjY2krSo-80) presented for Fall 2020 Reproducible Research with R Workshop (Day 5) at Washington State University, 20 November 2021
 
 ## Poster Presentations
+
+- [**Sharing Data, Code, and Analyses Across Organizations: Challenges and Breakthroughs with the Interagency Flood Typing and Mixed Population Study**](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1566772). American Geophysical Union 2024 Fall Meeting, 10 December 2024
 - [**Testing boundary layer and cloud parameterizations in the Polar Weather Research and Forecasting model using data from the Norwegian Young Sea ICE (N-ICE2015) cruise**](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/748109), American Geophysical Union 2020 Fall Meeting, 15 December 2020
 - **An Evaluation of Polar WRF During N-ICE2015**, IEEE WIE International Leadership Summit 2019, 30 July 2019
 - [**Comparison of Atmospheric and Cloud Observations with Model Simulations in Three Seasons during the N-ICE2015 Field Campaign**](https://ams.confex.com/ams/15CLOUD15ATRAD/webprogram/Paper347736.html), American Meteorological Society 15th Conference on Atmospheric Radation, 11 July 2018 
