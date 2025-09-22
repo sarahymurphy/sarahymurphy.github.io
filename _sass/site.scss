@@ -231,3 +231,61 @@ header .entry-meta {
         background-position: center center;
     }
 }
+/* Option 1: CSS Grid (Recommended) */
+.bio-section {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: start;
+}
+
+.bio-section.reverse {
+  grid-template-columns: 1fr 200px;
+}
+
+/* Option 2: Flexbox Alternative */
+.bio-section-flex {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+
+.bio-section-flex.reverse {
+  flex-direction: row-reverse;
+}
+
+.bio-section-flex img {
+  flex-shrink: 0;
+  width: 200px;
+}
+
+/* Shared styles */
+.bio-section img, .bio-section-flex img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
+
+.bio-text {
+  line-height: 1.6;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .bio-section, 
+  .bio-section.reverse,
+  .bio-section-flex,
+  .bio-section-flex.reverse {
+    flex-direction: column;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .bio-section img, .bio-section-flex img {
+    max-width: 200px;
+    justify-self: center;
+    align-self: center;
+  }
+}
