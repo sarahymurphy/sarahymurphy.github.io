@@ -11,15 +11,17 @@ comments: false
     <p>Hello! My name is Sarah and I am currently working as a Physical Scientist for the USGS New England Water Science Center. I received my Ph.D. from Washington State University, where my dissertation focused on the interaction between clouds and surface radiation over first-year sea ice in both model output and observations. I also provide technical support, editing, and client training for scientific conferences through The Conference Exchange (Confex).</p>
     
     <p>I grew up in central Maine and currently live in eastern Washington with my cat, Flame. I collect houseplants and like taking pictures in my free time.</p>
+
+        <p><a href="https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/">WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award</a></p>
+    
+    <p><a href="https://asr.science.energy.gov/news/program-news/post/12974">Sarah Murphy's Path Leads to PNNL for ASR-Focused Research</a></p>
+    
   </div>
 </div>
 
 <div class="bio-section reverse">
   <div class="bio-text">
-    <p><a href="https://news.wsu.edu/2020/05/12/wsu-doctoral-student-heading-pnnl-thanks-prestigious-department-energy-award/">WSU doctoral student heading to PNNL thanks to prestigious Department of Energy award</a></p>
-    
-    <p><a href="https://asr.science.energy.gov/news/program-news/post/12974">Sarah Murphy's Path Leads to PNNL for ASR-Focused Research</a></p>
-    
+
     <p>Additionally, I have been involved in a few field experiments, including:</p>
     <ul>
       <li><strong>2015</strong> to <strong>2023</strong> - The <a href="https://www.npolar.no/en/projects/n-ice2015/">Norwegian Young Sea Ice (NICE)</a> field experiment doing data analysis and model testing with data collected during the field experiment. I was not present for the field experiment, but my Ph.D. dissertation is focused on the analysis and testing of data collected during this field experiment.</li>
