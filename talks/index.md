@@ -36,7 +36,7 @@ comments: false
         }
 
         .section-header {
-            font-size: 2em;
+            font-size: 1.5em;
             font-weight: bold;
             color: #27ae60;
             margin-bottom: 25px;
