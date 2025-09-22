@@ -5,7 +5,6 @@ tags:
 comments: false
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +41,7 @@ comments: false
             color: #27ae60;
             margin-bottom: 25px;
             text-align: center;
-            padding: 15px;
+            padding: 10px;
             background: linear-gradient(135deg, #f0f9f0 0%, #d5e8d5 100%);
             border-radius: 10px;
             border-left: 4px solid #27ae60;
