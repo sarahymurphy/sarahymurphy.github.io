@@ -146,11 +146,20 @@ comments: false
             }
         }
     </style>
+
 </head>
 <body>
     <div class="section">
         <div class="section-header">Science Talks</div>
-        
+
+                <div class="presentation-item">
+            <div class="presentation-title"><a href="https://umaine.edu/mitchellcenter/2025-mswc-proposed-sessions/2025-mswc-session-i-sustainable-water-resources-for-maine-agriculture-and-rural-water-use/#p4">
+                Quantifying the Hydrologic Impacts of Changing Climatic Conditions on Agricultural Water Resources in New England Using the Precipitation Runoff Modeling System</a>
+            </div>
+            <div class="presentation-venue">2025 Maine Sustainability & Water Conference</div>
+            <div class="presentation-date">27 March 2025</div>
+        </div>
+
         <div class="presentation-item highlight-talk">
             <div class="presentation-title">
                 <a href="https://youtube.com/live/RyhSnyoh5zM?feature=share">Measurements and Modeling of Arctic Atmospheric Processes During the Norwegian Young Sea Ice Field Campaign</a>
@@ -208,7 +217,7 @@ comments: false
 
     <div class="section">
         <div class="section-header">Programming Tutorials</div>
-        
+
         <div class="presentation-item">
             <div class="presentation-title">Introduction to Pandas</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
@@ -294,7 +303,7 @@ comments: false
 
     <div class="section">
         <div class="section-header">Poster Presentations</div>
-        
+
         <div class="presentation-item">
             <div class="presentation-title">
                 <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1566772">Sharing Data, Code, and Analyses Across Organizations: Challenges and Breakthroughs with the Interagency Flood Typing and Mixed Population Study</a>
@@ -376,5 +385,6 @@ comments: false
             <div class="presentation-date">7 January 2015</div>
         </div>
     </div>
+
 </body>
 </html>
