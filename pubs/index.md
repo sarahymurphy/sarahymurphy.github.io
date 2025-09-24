@@ -18,9 +18,9 @@ comments: false
             max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #fafafa;
+            background-color: rgba(255, 255, 255, 0.85);
+            border-radius: 4.1%;
         }
-
         .section {
             background: white;
             border-radius: 12px;
@@ -127,6 +127,7 @@ comments: false
             }
         }
     </style>
+
 </head>
 <body>
     <div class="section">
@@ -143,21 +144,22 @@ comments: false
 
     <div class="publication-item">
         <div class="publication-text">
-            Hanrahan, J., Maynard, A., <span class="author-highlight">Murphy, S. Y.</span>, Zercher, C., & Fitzpatrick, A. (2017). 
-            <a href="https://journals.ametsoc.org/jamc/article/56/10/2869/20343/Examining-the-Climatology-of-Shortwave-Radiation">Examining the climatology of shortwave radiation in the northeastern United States.</a> 
-            <span class="journal-name">Journal of Applied Meteorology and Climatology</span>, <em>56</em>(10), 2869–2881. 
+            Hanrahan, J., Maynard, A., <span class="author-highlight">Murphy, S. Y.</span>, Zercher, C., & Fitzpatrick, A. (2017).
+            <a href="https://journals.ametsoc.org/jamc/article/56/10/2869/20343/Examining-the-Climatology-of-Shortwave-Radiation">Examining the climatology of shortwave radiation in the northeastern United States.</a>
+            <span class="journal-name">Journal of Applied Meteorology and Climatology</span>, <em>56</em>(10), 2869–2881.
             <a href="https://doi.org/10.1175/JAMC-D-16-0420.1" class="doi-link">https://doi.org/10.1175/JAMC-D-16-0420.1</a>
         </div>
     </div>
 
     <div class="publication-item">
         <div class="publication-text">
-            Walden, V. P., Hudson, S. R., Cohen, L., <span class="author-highlight">Murphy, S. Y.</span>, & Granskog, M. A. (2017). 
-            <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD026091">Atmospheric components of the surface energy budget over young sea ice: Results from the N-ICE2015 campaign.</a> 
-            <span class="journal-name">Journal of Geophysical Research: Atmospheres</span>, <em>122</em>(15), 8427–8446. 
+            Walden, V. P., Hudson, S. R., Cohen, L., <span class="author-highlight">Murphy, S. Y.</span>, & Granskog, M. A. (2017).
+            <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD026091">Atmospheric components of the surface energy budget over young sea ice: Results from the N-ICE2015 campaign.</a>
+            <span class="journal-name">Journal of Geophysical Research: Atmospheres</span>, <em>122</em>(15), 8427–8446.
             <a href="https://doi.org/10.1002/2016JD026091" class="doi-link">https://doi.org/10.1002/2016JD026091</a>
         </div>
     </div>
+
 </div>
 
 <div class="section">
