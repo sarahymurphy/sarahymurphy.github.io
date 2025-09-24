@@ -134,6 +134,15 @@ comments: false
         
         <div class="publication-item">
             <div class="publication-text">
+                <span class="author-highlight">S.Y. Murphy</span>, 2023: 
+                <a href="https://rex.libraries.wsu.edu/esploro/outputs/doctoral/99901019534701842">Measurements and Modeling of Arctic Atmospheric Processes During the Norwegian Young Sea Ice Field Campaign.</a> 
+                <span class="journal-name">Washington State University Doctor of Philosophy (Ph.D.) Dissertation</span> 
+                <a href="https://doi.org/10.7273/000005016" class="doi-link">https://doi.org/10.7273/000005016</a>
+            </div>
+        </div>
+
+        <div class="publication-item">
+            <div class="publication-text">
                 Hanrahan, J., A. Maynard, <span class="author-highlight">S.Y. Murphy</span>, C. Zercher, and A. Fitzpatrick, 2017: 
                 <a href="https://journals.ametsoc.org/jamc/article/56/10/2869/20343/Examining-the-Climatology-of-Shortwave-Radiation">Examining the Climatology of Shortwave Radiation in the Northeastern United States.</a> 
                 <span class="journal-name">J. Appl. Meteor. Climatol.</span>, 56, 2869–2881, 

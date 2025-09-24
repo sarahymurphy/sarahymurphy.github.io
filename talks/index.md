@@ -152,7 +152,15 @@ comments: false
     <div class="section">
         <div class="section-header">Science Talks</div>
 
-                <div class="presentation-item">
+        <div class="presentation-item">
+            <div class="presentation-title"><a href="https://umaine.edu/mitchellcenter/2025-mswc-proposed-sessions/2025-mswc-session-i-sustainable-water-resources-for-maine-agriculture-and-rural-water-use">
+                Session I: Sustainabile Water Resources for Maine Agriculture and Rural Water Use (session chair)</a>
+            </div>
+            <div class="presentation-venue">2025 Maine Sustainability & Water Conference</div>
+            <div class="presentation-date">27 March 2025</div>
+        </div>
+
+        <div class="presentation-item">
             <div class="presentation-title"><a href="https://umaine.edu/mitchellcenter/2025-mswc-proposed-sessions/2025-mswc-session-i-sustainable-water-resources-for-maine-agriculture-and-rural-water-use/#p4">
                 Quantifying the Hydrologic Impacts of Changing Climatic Conditions on Agricultural Water Resources in New England Using the Precipitation Runoff Modeling System</a>
             </div>
