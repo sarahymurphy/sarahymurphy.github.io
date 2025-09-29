@@ -132,7 +132,16 @@ comments: false
 <body>
     <div class="section">
         <div class="section-header">Papers</div>
-        
+
+    <div class="publication-item">
+        <div class="publication-text">
+            Irizarry-Ortiz, M., & <span class="author-highlight">Murphy, S. Y.</span> (2025).
+            <a href="https://doi.org/10.1061/JHYEFF.HEENG-6500">Validation of gridded precipitation datasets for flood typing in select conterminous US basins</a>.
+            <span class="journal-name">Journal of Hydrologic Engineering</span>, <em>30</em>(6).
+            <a href="https://doi.org/10.1061/JHYEFF.HEENG-6500" class="doi-link">https://doi.org/10.1061/JHYEFF.HEENG-6500</a>
+        </div>
+    </div>
+
     <div class="publication-item">
         <div class="publication-text">
             <span class="author-highlight">Murphy, S. Y.</span> (2023). 
