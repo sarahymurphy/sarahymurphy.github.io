@@ -18,7 +18,7 @@ body {
     //background-color: $bodycolor;
 		
     background-position: center center;
-    background-attachment: fixed;
+    background-attachment: fill;
     background-size: cover; /* ensure image covers viewport */
     background-repeat: no-repeat;
 
@@ -27,7 +27,7 @@ body {
        uses the same background-image and covers the viewport. */
     &::before {
         content: '';
-        position: fixed;
+        position: fill;
         top: 0;
         left: 0;
         width: 100%;
@@ -52,7 +52,7 @@ body {
         &::before {
             /* make the pseudo-element cover the full viewport so the image
                reaches the bottom on mobile */
-            background-attachment: fixed;
+            background-attachment: fill;
             background-size: cover;
             background-position: center bottom; /* anchor to bottom */
             background-repeat: no-repeat;
