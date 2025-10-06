@@ -19,8 +19,38 @@ body {
 		
     background-position: center center;
     background-attachment: fixed;
+    background-size: cover; /* ensure image covers viewport */
+    background-repeat: no-repeat;
+
+    /* Use a fixed-position pseudo-element as a mobile fallback (iOS Safari
+       doesn't fully support background-attachment: fixed). The pseudo-element
+       uses the same background-image and covers the viewport. */
+    &::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        background-image: inherit;
+        background-position: inherit;
+        background-size: inherit;
+        background-repeat: inherit;
+    -webkit-transform: translateZ(0); /* promote to its own layer */
+    transform: translateZ(0);
+        pointer-events: none;
+    }
+
     @media #{$small} {
-        background-attachment: fixed; // Better mobile performance
+        /* Prevent duplicate backgrounds on small devices and ensure the
+           pseudo-element remains the fixed background that covers the screen. */
+        background: none;
+        &::before {
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center center;
+        }
     }
 }
 * {
