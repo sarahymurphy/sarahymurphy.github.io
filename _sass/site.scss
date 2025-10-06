@@ -45,11 +45,19 @@ body {
     @media #{$small} {
         /* Prevent duplicate backgrounds on small devices and ensure the
            pseudo-element remains the fixed background that covers the screen. */
+        /* leave a solid background color below the image so the image doesn't
+           visually reach the bottom of the page on small screens */
         background: none;
+        background-color: $bodycolor;
         &::before {
+            /* make the pseudo-element cover the full viewport so the image
+               reaches the bottom on mobile */
             background-attachment: fixed;
             background-size: cover;
-            background-position: center center;
+            background-position: center bottom; /* anchor to bottom */
+            background-repeat: no-repeat;
+            height: 100vh;
+            bottom: 0;
         }
     }
 }
