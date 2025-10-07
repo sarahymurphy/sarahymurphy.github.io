@@ -24,6 +24,7 @@ All of these require reticulate.
 ### Installation
 
 First, install the reticulate package:
+
 ```{r eval=FALSE}
 install.packages("reticulate")
 ```
@@ -35,6 +36,7 @@ When you install reticulate you are also installing [Miniconda](https://docs.con
 [R Markdown](https://rmarkdown.rstudio.com/) can contain both Python and R code blocks. When in an RMarkdown document you can either manually create a code block or click on the `insert` dropdown list in R Studio and select Python. Once you have a code block you can code using typical Python syntax. Python code blocks will run as Python code when you knit your document.
 
 ![](https://github.com/sarahymurphy/r-reticulate-tutorial/blob/main/blogpost/img/python-codeblock.png?raw=true)
+
 ```{python, echo=FALSE}
 python_variable = 6
 print(python_variable)
