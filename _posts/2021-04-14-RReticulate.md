@@ -3,7 +3,7 @@ layout: post
 title: "Using Python in R Studio with Reticulate"
 date: 2021-04-14
 excerpt: "A blog post for Washington State University's R Working Group Blog about using Python and R together with Reticulate."
-tags: [r, r_working_group]
+tags: [r]
 comments: false
 ---
 
@@ -25,7 +25,7 @@ All of these require reticulate.
 
 First, install the reticulate package:
 
-```{r eval=FALSE}
+```r
 install.packages("reticulate")
 ```
 
@@ -37,7 +37,7 @@ When you install reticulate you are also installing [Miniconda](https://docs.con
 
 ![](https://github.com/sarahymurphy/r-reticulate-tutorial/blob/main/blogpost/img/python-codeblock.png?raw=true)
 
-```{python, echo=FALSE}
+```python
 python_variable = 6
 print(python_variable)
 ```
@@ -46,7 +46,7 @@ print(python_variable)
 
 We can use Python interactively within the console in R studio. To do this, we will use the `repl_python()` command. This opens a Python prompt.
 
-```{r, eval=FALSE}
+```r
 # Load library
 library(reticulate)
 
@@ -67,7 +67,7 @@ You'll notice that when you're using Python `>>>` is displayed in the console. W
 ### Changing Python environments
 Using `repl_python()` will open the `r-reticulate` Python environment by default. If you've used Python and have a environment with packages loaded that you'd like to use, you can load that using the following commands.
 
-```{r, eval=FALSE}
+```r
 # I can see all my available Python versions and environments
 reticulate::py_config()
 
@@ -82,7 +82,7 @@ use_virtualenv("r-reticulate")
 ### Installing Python packages
 Next, we need to install some Python packages:
 
-```{r eval=FALSE}
+```r
 conda_install("r-reticulate", "cartopy", forge = TRUE)
 conda_install("r-reticulate", "matplotlib")
 conda_install("r-reticulate", "xarray")
@@ -94,7 +94,7 @@ The `conda_install` function uses Miniconda to install Python packages. We speci
 
 We can now load our newly installed Python libraries in R. Open a new R script and import these packages using the `import` command. We are assigning these to some common nicknames for these packages so they are easier to reference later on.
 
-```{r}
+```r
 library(reticulate)
 
 plt <- import('matplotlib.pyplot')
@@ -105,7 +105,7 @@ feature <- import('cartopy.feature')
 
 Xarray comes with some tutorial datasets. We are going to use the air temperature tutorial dataset here. To import it, we will use the xarray `open_dataset` command. We can now use all the usual Python commands, substituting `.` for `$`.
 
-```{r}
+```r
 air_temperature <- xr$tutorial$open_dataset("air_temperature.nc")
 
 air_temperature
@@ -117,7 +117,7 @@ Python users define lists with square brackets. However, the equivalent R type t
 
 The Python equivalent of the following R code can be seen in the next section about sourcing Python scripts.
 
-```{r, eval = FALSE}
+```r
 # Creating the figure
 fig <- plt$figure(figsize = c(15, 5))
 
@@ -146,7 +146,7 @@ plt$show()
 
 ```
 
-```{python, echo=FALSE}
+```python
 import xarray as xr
 import matplotlib.pyplot as plt
 import cartopy
@@ -169,7 +169,7 @@ plt.show()
 
 We can easily import a Python script and use user-defined functions from it using `source_python`. The Python script below creates a function that does the same thing as the above R script. This function accepts a date string and plots the corresponding map.
 
-```{python}
+```python
 import xarray as xr
 import matplotlib.pyplot as plt
 import cartopy
@@ -196,7 +196,7 @@ def PlotAirTemp(usertime):
 
 I have named the above file `Python_PlotAirTemp.py`. Once we source this file, we can use the function. Our function is called `PlotAirTemp`.
 
-```{r}
+```r
 library(reticulate)
 
 # Source the Python file to import the functions
@@ -206,7 +206,7 @@ source_python('../Python_PlotAirTemp.py')
 PlotAirTemp('2013-04-14 00:00:00')
 ```
 
-```{python, echo=FALSE}
+```python
 import xarray as xr
 import matplotlib.pyplot as plt
 import cartopy
