@@ -7,12 +7,11 @@ tags: [python]
 comments: false
 ---
 
-## A blog post for Washington State University's Python Working Group Blog
-<br><br>
 This post is the first in a two-part series of introductory python talks for the start of the semester.
 The majority of this talk is based on [Software Capentry's Python Notice Inflammation lesson](https://swcarpentry.github.io/python-novice-inflammation/).
 <br><br>
----
+
+<hr>
 
 <p>Watch the <a href="https://youtu.be/5YA29G6BCQw">recording of the presentation here</a>. Presentation by <a href="https://sarahymurphy.github.io/">Sarah Murphy</a> (sarah.y.murphy@wsu.edu). Data used in this lesson can be <a href="https://drive.google.com/drive/folders/1GbdShqmVXEefoFj9j7yYmGxDLMPvpveH?usp=sharing">downloaded here</a>. We will use the inflammation-01.csv file in the Data folder for this lesson.&nbsp;</p>
 
@@ -33,8 +32,8 @@ The majority of this talk is based on [Software Capentry's Python Notice Inflamm
 <hr class="wp-block-separator aligncenter has-text-color has-background is-style-wide" style="background-color:#9c2f19;color:#9c2f19"/>
 <!-- /wp:separator -->
 
-<!-- wp:syntaxhighlighter/code {"language":"python"} -->
-<pre class="wp-block-syntaxhighlighter-code">#!/usr/bin/env python3
+```python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 10 11:58:43 2021
@@ -77,8 +76,7 @@ text_file = numpy.loadtxt(fname = '/Users/smurphy/swc-python/data/inflammation-0
 import matplotlib.pyplot as plt
 
 plt.plot(text_file[:,0])
-</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```
 
 <!-- wp:image {"align":"center","id":109,"sizeSlug":"large","linkDestination":"none"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://cougpy.files.wordpress.com/2021/09/download.png?w=378" alt="" class="wp-image-109"/><figcaption>The figure created by the code above using the inflammation-01.csv dataset.</figcaption></figure></div>

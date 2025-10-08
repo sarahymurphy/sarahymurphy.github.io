@@ -7,12 +7,10 @@ tags: [python]
 comments: false
 ---
 
-## A blog post for Washington State University's Python Working Group Blog
-<br><br>
 The majority of this talk is based on talk was based on the <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/index.html">conda user guide</a> and the <a href="https://packaging.python.org/tutorials/installing-packages/">Python Packaging Authority website.</a>
 <br><br>
 
----
+<hr>
 
 <!-- wp:paragraph -->
 <p>This week <a href="https://sarahymurphy.github.io/">Sarah Murphy</a> (sarah.y.murphy@wsu.edu) gave a talk about managing packages and environments using conda and pip. <a href="https://youtu.be/614MJmzlVGY">A recording of the talk can be seen here.</a> </p>
@@ -78,9 +76,9 @@ The majority of this talk is based on talk was based on the <a href="https://doc
 <p> The command to install a package with conda is install: </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda install scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda install scipy
+```
 
 <!-- wp:paragraph -->
 <p>You can also list multiple packages after the install command to download them all. </p>
@@ -90,17 +88,17 @@ The majority of this talk is based on talk was based on the <a href="https://doc
 <p>If you'd like to install a specific version of a package, set the package name equal to the version you'd like.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda install scipy = 0.15.0</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda install scipy = 0.15.0
+```
 
 <!-- wp:paragraph -->
 <p>There is the possibility that you may need to download a package from conda that is not provided by the default channel. One of the most popular alternative channels is <strong>conda-forge</strong>. To specify that we want to search a different channel, we will use the -c flag with the above commands and followed by the channel.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda install -c conda-forge scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda install -c conda-forge scipy
+```
 
 <!-- wp:heading {"level":4} -->
 <h4 id="pip">Pip</h4>
@@ -110,17 +108,17 @@ The majority of this talk is based on talk was based on the <a href="https://doc
 <p>With pip, we use the command 'python3 -m pip install' to install packages. Note that this would be 'py -m pip install' on a Windows computer.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">python3 -m pip install "scipy"</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+python3 -m pip install "scipy"
+```
 
 <!-- wp:paragraph -->
 <p>Just as with conda, there is the option to specify the package version.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">python3 -m pip install "scipy = 0.15.0"</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+python3 -m pip install "scipy = 0.15.0"
+```
 
 <!-- wp:heading {"level":3} -->
 <h3 id="searching-for-packages">Searching for Packages</h3>
@@ -134,17 +132,17 @@ The majority of this talk is based on talk was based on the <a href="https://doc
 <h4 id="conda">Conda</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda search scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda search scipy
+```
 
 <!-- wp:heading {"level":4} -->
 <h4 id="pip">Pip</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">pip search scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+pip search scipy
+```
 
 <!-- wp:heading {"level":3} -->
 <h3 id="what-packages-do-i-already-have-installed">What packages do I already have installed?</h3>
@@ -158,9 +156,9 @@ The majority of this talk is based on talk was based on the <a href="https://doc
 <h4 id="conda">Conda</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda list</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda list
+```
 
 <!-- wp:paragraph -->
 <p>Conda's list command displays a table containing the package name, version, build, and channel. The channel is only displayed if it was downloaded from a channel other than the default.</p>
@@ -170,10 +168,10 @@ The majority of this talk is based on talk was based on the <a href="https://doc
 <h4 id="pip">Pip</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">pip list
-pip freeze</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+pip list
+pip freeze
+```
 
 <!-- wp:paragraph -->
 <p>Pip's list command displays a neat table of your package names and versions. Using freeze will display more information, including some file paths, but is not formatted in the same way.</p>
@@ -191,17 +189,17 @@ pip freeze</pre>
 <h4 id="conda">Conda</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda remove scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda remove scipy
+```
 
 <!-- wp:heading {"level":4} -->
 <h4 id="pip">Pip</h4>
 <!-- /wp:heading -->
 
 <!-- wp:syntaxhighlighter/code -->
-<pre class="wp-block-syntaxhighlighter-code">pip uninstall scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">pip uninstall scipy
+```
 
 <!-- wp:heading {"level":3} -->
 <h3 id="updating-packages">Updating Packages</h3>
@@ -215,35 +213,35 @@ pip freeze</pre>
 <h4 id="conda">Conda</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda update scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda update scipy
+```
 
 <!-- wp:paragraph -->
 <p>The update command is the same for updating conda, anaconda, spyder, and all other anaconda products, too! </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda update conda
+```bash
+conda update conda
 conda update anaconda
-conda update spyder</pre>
-<!-- /wp:syntaxhighlighter/code -->
+conda update spyder
+```
 
 <!-- wp:paragraph -->
 <p>In conda, we can pin packages. <strong>Pinning</strong> is when you tell conda not to update a package. I will go into more detail about how to pin packages in the next section. If you want to update a package that you've pinned, you can use the update command with the --no-pin flag.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:syntaxhighlighter/code -->
-<pre class="wp-block-syntaxhighlighter-code">conda update scipy --no-pin</pre>
-<!-- /wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">conda update scipy --no-pin
+```
 
 <!-- wp:heading {"level":4} -->
 <h4 id="pip">Pip</h4>
 <!-- /wp:heading -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">pip install --upgrade scipy</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+pip install --upgrade scipy
+```
 
 <!-- wp:heading {"level":3} -->
 <h3 id="pinning-packages">Pinning Packages</h3>
@@ -297,17 +295,17 @@ conda update spyder</pre>
 <p>We can use the create command in conda to create a new environment.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda create -n myenv</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda create -n myenv
+```
 
 <!-- wp:paragraph -->
 <p>If we would like a past version of Python we can specify it the same way we specify package versions.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:syntaxhighlighter/code -->
-<pre class="wp-block-syntaxhighlighter-code">conda create -n myenv python=3.6</pre>
-<!-- /wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">conda create -n myenv python=3.6
+```
 
 <!-- wp:heading {"level":4} -->
 <h4 id="pip">Pip</h4>
@@ -317,9 +315,9 @@ conda update spyder</pre>
 <p>Pip uses venv to create virtual environments and does not have the ability to specify Python version within the create command. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">py -m venv myenv</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+py -m venv myenv
+```
 
 <!-- wp:heading {"level":3} -->
 <h3 id="activating-and-deactivating-environments">Activating and Deactivating Environments</h3>
@@ -337,17 +335,17 @@ conda update spyder</pre>
 <p>To activate your environment in conda, use the activate command. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda activate myenv</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda activate myenv
+```
 
 <!-- wp:paragraph -->
 <p>With older verisions of Python and conda, you may need to use source in the place of conda.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:syntaxhighlighter/code -->
-<pre class="wp-block-syntaxhighlighter-code">source activate myenv</pre>
-<!-- /wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">source activate myenv
+```
 
 <!-- wp:paragraph -->
 <p>It is likely both of these commands will work for you.</p>
@@ -357,9 +355,9 @@ conda update spyder</pre>
 <p>To deactivate environments in conda, we use the deactivate command.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda deactivate</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda deactivate
+```
 
 <!-- wp:heading {"level":4} -->
 <h4 id="pip">Pip</h4>
@@ -369,25 +367,25 @@ conda update spyder</pre>
 <p>Activating environments with pip is different for Mac and Windows users. For <strong>Mac users</strong> we use the source command followed by the environment name and '/bin/activate'. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">source myenv/bin/activate</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+source myenv/bin/activate
+```
 
 <!-- wp:paragraph -->
 <p>For <strong>Windows users</strong> we use the following command, replacing myenv with the name of your environment.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">.\myenv\Scripts\activate</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+.\myenv\Scripts\activate
+```
 
 <!-- wp:paragraph -->
 <p>To deactivate, we can just type deactivate.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">deactivate</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+deactivate
+```
 
 <!-- wp:heading {"level":3} -->
 <h3 id="sharing-environments">Sharing Environments</h3>
@@ -413,9 +411,9 @@ conda update spyder</pre>
 <p>Once you have an environment.yml file, you can use the following code to create the environment:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
-<pre class="wp-block-syntaxhighlighter-code">conda env create -f environment.yml</pre>
-<!-- /wp:syntaxhighlighter/code -->
+```bash
+conda env create -f environment.yml
+```
 
 <!-- wp:paragraph -->
 <p>Now, you can use the environment 'stats2' by activating it just as we did before. If you'd like to share this environment, just send your environment.yml file. Your collaborators will be able to create a new environment with it just like you did.</p>
