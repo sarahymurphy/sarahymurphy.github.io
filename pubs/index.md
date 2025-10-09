@@ -18,8 +18,6 @@ comments: false
             max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.85);
-            border-radius: 4.1%;
         }
 
         .section-header {
