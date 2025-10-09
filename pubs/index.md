@@ -21,19 +21,6 @@ comments: false
             background-color: rgba(255, 255, 255, 0.85);
             border-radius: 4.1%;
         }
-        .section {
-            background: white;
-            border-radius: 12px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-            transition: all 0.3s ease;
-        }
-
-        .section:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-        }
 
         .section-header {
             font-size: 1.5em;
