@@ -11,55 +11,6 @@ layout: compress
         <style>
         /* Post List Page Styling - Similar to Publications Page */
 
-        .post-title {
-            background: white;
-            border-radius: 12px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-            text-align: center;
-            transition: all 0.3s ease;
-        }
-
-        .post-title:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-        }
-
-        .post-title h1 {
-            font-size: 1.8em;
-            font-weight: bold;
-            color: #27ae60;
-            margin-bottom: 20px;
-            padding: 10px;
-            background: linear-gradient(135deg, #f0f9f0 0%, #d5e8d5 100%);
-            border-radius: 10px;
-            border-left: 4px solid #27ae60;
-        }
-
-        .post-title .btn {
-            display: inline-block;
-            background: #27ae60;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 8px;
-            text-decoration: none;
-            transition: all 0.3s ease;
-        }
-
-        .post-title .btn:hover {
-            background: #1e8449;
-            transform: scale(1.05);
-        }
-
-        .post-list {
-            background: white;
-            border-radius: 12px;
-            padding: 30px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-            transition: all 0.3s ease;
-        }
-
         .post-list ul {
             list-style: none;
             padding: 25px;
@@ -75,6 +26,11 @@ layout: compress
             margin-bottom: 25px;
             border-left: 4px solid #27ae60;
             transition: all 0.3s ease;
+        }
+
+        .post-list li:hover {
+            background: #f0f9f0;
+            transform: translateX(5px);
         }
 
         .post-list li:last-child {
