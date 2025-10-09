@@ -11,15 +11,6 @@ comments: false
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
         .section-header {
             font-size: 1.5em;
             font-weight: bold;
@@ -31,7 +22,6 @@ comments: false
             border-radius: 10px;
             border-left: 4px solid #27ae60;
         }
-
         .publication-item {
             background: #f8f9fa;
             padding: 20px;
@@ -40,28 +30,23 @@ comments: false
             border-left: 4px solid #27ae60;
             transition: all 0.3s ease;
         }
-
         .publication-item:hover {
             background: #f0f9f0;
             transform: translateX(5px);
         }
-
         .publication-item:last-child {
-            margin-bottom: 0;
+            margin-bottom: 25px;
         }
-
         .publication-text {
             font-size: 1.05em;
             line-height: 1.7;
         }
-
         .publication-text a {
             color: #27ae60;
             text-decoration: none;
             font-weight: 600;
             transition: all 0.3s ease;
         }
-
         .publication-text a:hover {
             color: #1e8449;
             text-decoration: underline;
