@@ -11,6 +11,14 @@ comments: false
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications</title>
     <style>
+                body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         .section-header {
             font-size: 1.5em;
             font-weight: bold;
@@ -69,7 +77,7 @@ comments: false
             padding: 4px 8px;
             border-radius: 4px;
             font-size: 0.9em;
-            margin-top: 5px;
+            margin-top: 2px;
             transition: all 0.3s ease;
         }
 

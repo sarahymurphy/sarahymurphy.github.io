@@ -11,6 +11,14 @@ comments: false
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Presentations</title>
     <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         .section-header {
             font-size: 1.5em;
             font-weight: bold;
