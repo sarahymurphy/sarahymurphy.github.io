@@ -32,7 +32,7 @@ comments: false
   <img src="../assets/img/Sarah2023-1738.jpeg" alt="Sarah Murphy in field">
 </div>
 
-<div class="flame-section" style="text-align: center; margin-top: 40px;">
-  <img src="../assets/img/flame.jpeg" alt="Flame the cat" style="max-width: 600px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<div class="flame-section">
+  <img src="../assets/img/flame.jpeg" alt="Flame the cat">
 </div>
 

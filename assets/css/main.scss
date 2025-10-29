@@ -26,3 +26,10 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// Page-specific styles
+@import "publications";
+@import "presentations";
+@import "post-list";
+@import "workshops";
+@import "page-styles";
+

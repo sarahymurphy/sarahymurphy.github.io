@@ -1,0 +1,68 @@
+/* Page-specific inline styles */
+
+/* Home page styles */
+.home-page {
+    .title p {
+        &.site-title {
+            font-size: 1.2rem;
+            font-weight: 300;
+        }
+        
+        &.site-bio {
+            font-size: 1rem;
+            font-weight: 300;
+        }
+    }
+}
+
+/* Social links styles */
+.social-links {
+    font-size: 30px;
+}
+
+/* Post page styles */
+.post-back-bottom {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.post-featured-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* About page styles */
+.flame-section {
+    text-align: center;
+    margin-top: 40px;
+
+    img {
+        max-width: 600px;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+}
+
+/* Utility classes */
+.clearfix {
+    clear: both;
+}
+
+/* 404 page styles */
+.error-404 {
+    .container {
+        margin: 10px auto;
+        max-width: 600px;
+        text-align: center;
+    }
+
+    h1 {
+        margin: 30px 0;
+        font-size: 4em;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+}

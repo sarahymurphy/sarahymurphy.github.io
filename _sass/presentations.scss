@@ -1,0 +1,118 @@
+/* Presentations/Talks Page Styles */
+.presentations-page {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+
+    .section-header {
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #27ae60;
+        margin-bottom: 25px;
+        text-align: center;
+        padding: 10px;
+        background: linear-gradient(135deg, #f0f9f0 0%, #d5e8d5 100%);
+        border-radius: 10px;
+        border-left: 4px solid #27ae60;
+    }
+
+    .presentation-item {
+        background: #f8f9fa;
+        padding: 20px;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        border-left: 4px solid #27ae60;
+        transition: all 0.3s ease;
+
+        &:hover {
+            background: #f0f9f0;
+            transform: translateX(5px);
+        }
+
+        &:last-child {
+            margin-bottom: 25px;
+        }
+    }
+
+    .presentation-title {
+        font-size: 1.1em;
+        font-weight: bold;
+        color: #2c3e50;
+        margin-bottom: 8px;
+
+        a {
+            color: #27ae60;
+            text-decoration: none;
+            transition: all 0.3s ease;
+
+            &:hover {
+                color: #1e8449;
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .presentation-venue {
+        color: #666;
+        font-style: italic;
+        margin-bottom: 5px;
+    }
+
+    .presentation-date {
+        color: #27ae60;
+        font-weight: 600;
+        font-size: 0.95em;
+        margin-bottom: 10px;
+    }
+
+    .presentation-description {
+        color: #555;
+        line-height: 1.6;
+    }
+
+    .video-link {
+        display: inline-block;
+        background: #27ae60;
+        color: white;
+        padding: 6px 12px;
+        border-radius: 20px;
+        text-decoration: none;
+        font-size: 0.9em;
+        margin: 5px 5px 0 0;
+        transition: all 0.3s ease;
+
+        &:hover {
+            background: #1e8449;
+            transform: translateY(-2px);
+        }
+    }
+
+    .highlight-talk {
+        border-left: 4px solid #f39c12;
+        background: #fef9e7;
+
+        &:hover {
+            background: #fdf2e9;
+        }
+    }
+
+    @media (max-width: 768px) {
+        padding: 10px;
+
+        .section {
+            padding: 20px;
+        }
+
+        .section-header {
+            font-size: 1.6em;
+            padding: 10px;
+        }
+
+        .presentation-item {
+            padding: 15px;
+        }
+    }
+}
