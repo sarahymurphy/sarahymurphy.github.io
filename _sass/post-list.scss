@@ -30,15 +30,15 @@
             }
 
             &:last-child {
-                margin-bottom: 0;
+                margin-bottom: 25px;
             }
         }
 
         a.zoombtn {
             color: #27ae60;
             text-decoration: none;
-            font-weight: 600;
-            font-size: 1.2em;
+            font-size: 1.1em;
+            font-weight:bold;
             transition: all 0.3s ease;
             display: inline-block;
             margin-bottom: 10px;
@@ -57,22 +57,20 @@
         }
 
         .btn.zoombtn {
-            display: inline-block;
-            background: #e8f5e8;
-            color: #27ae60;
-            padding: 8px 16px;
-            border-radius: 6px;
-            font-size: 0.95em;
-            font-weight: 600;
-            margin-top: 10px;
-            transition: all 0.3s ease;
-            text-decoration: none;
-
-            &:hover {
+                display: inline-block;
                 background: #27ae60;
                 color: white;
-                transform: scale(1.05);
-            }
+                padding: 6px 12px;
+                border-radius: 20px;
+                text-decoration: none;
+                font-size: 0.9em;
+                margin: 5px 5px 0 0;
+                transition: all 0.3s ease;
+
+            &:hover {            
+                background: #1e8449;
+            transform: translateY(-2px);
+        }
         }
     }
 
