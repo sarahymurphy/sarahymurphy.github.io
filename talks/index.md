@@ -93,7 +93,7 @@ comments: false
             <div class="presentation-title">Working with NetCDF Files in Python with xarray</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">19 September 2022</div>
-            <a href="https://youtu.be/A3xLZc3I1F0" class="video-link">Watch Video</a>
+            <a href="https://youtu.be/A3xLZc3I1F0" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
@@ -106,43 +106,43 @@ comments: false
             <div class="presentation-title">Using Python and R Together</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">22 April 2022</div>
-            <a href="https://youtu.be/uu33RZIU8SE" class="video-link">Watch Video</a>
+            <a href="https://youtu.be/uu33RZIU8SE" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
             <div class="presentation-title">Working with netCDF files in xarray</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">9 February 2022</div>
-            <a href="https://youtu.be/gd-a_GvOG0g" class="video-link">Watch Video</a>
+            <a href="https://youtu.be/gd-a_GvOG0g" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
             <div class="presentation-title">Introduction to Python and Anaconda</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">31 January 2022</div>
-            <a href="https://youtu.be/Vw0_zAzMhE8" class="video-link">Watch Video</a>
+            <a href="https://youtu.be/Vw0_zAzMhE8" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
             <div class="presentation-title">Introduction to Python</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">24 January 2021</div>
-            <a href="https://youtu.be/Vw0_zAzMhE8" class="video-link">Watch Video</a>
+            <a href="https://youtu.be/Vw0_zAzMhE8" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
             <div class="presentation-title">Package Management</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">31 September 2021</div>
-            <a href="https://youtu.be/614MJmzlVGY" class="video-link">Watch Video</a>
+            <a href="https://youtu.be/614MJmzlVGY" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
             <div class="presentation-title">Introduction to Python</div>
             <div class="presentation-venue">Python Working Group at Washington State University</div>
             <div class="presentation-date">10 and 17 September 2021</div>
-            <a href="https://youtu.be/5YA29G6BCQw" class="video-link">Day 1 Video</a>
-            <a href="https://youtu.be/kh0Pe9UqPkY" class="video-link">Day 2 Video</a>
+            <a href="https://youtu.be/5YA29G6BCQw" class="video-link"><i class="fa-solid fa-video"></i> Day 1 Video</a>
+            <a href="https://youtu.be/kh0Pe9UqPkY" class="video-link"><i class="fa-solid fa-video"></i> Day 2 Video</a>
         </div>
 
         <div class="presentation-item">
@@ -155,14 +155,14 @@ comments: false
             <div class="presentation-title">GitHub websites</div>
             <div class="presentation-venue">Spring 2021 Reproducible Research with R Workshop (Day 5) at Washington State University</div>
             <div class="presentation-date">19 March 2021</div>
-            <a href="https://www.youtube.com/watch?v=tDdayIT6M2Y" class="video-link">Watch Video</a>
+            <a href="https://www.youtube.com/watch?v=tDdayIT6M2Y" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
 
         <div class="presentation-item">
             <div class="presentation-title">GitHub websites</div>
             <div class="presentation-venue">Fall 2020 Reproducible Research with R Workshop (Day 5) at Washington State University</div>
             <div class="presentation-date">20 November 2021</div>
-            <a href="https://www.youtube.com/watch?v=SjY2krSo-80" class="video-link">Watch Video</a>
+            <a href="https://www.youtube.com/watch?v=SjY2krSo-80" class="video-link"><i class="fa-solid fa-video"></i> Watch Video</a>
         </div>
     </div>
 
