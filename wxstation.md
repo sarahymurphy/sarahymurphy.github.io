@@ -11,8 +11,10 @@ This page is a work in progress
 ## AmbientWeather Network Station
 
 <div class="bio-section">
-  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="300">
-      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="300">
+<div>
+  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="300"><br>
+      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="300" rotate="90">
+      </div>
   <div class="bio-text">
 
 <table>
