@@ -12,8 +12,8 @@ This page is a work in progress
 
 <div class="bio-section">
 <div>
-  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="400"><br>
-      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="400">
+  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600"><br>
+      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="600">
       </div>
   <div class="bio-text">
 
