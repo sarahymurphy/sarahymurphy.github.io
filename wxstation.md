@@ -9,51 +9,37 @@ comments: false
 This page is a work in progress
 
 ## AmbientWeather Network Station
-<table>
-    <tr>
-  <td>
-  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600"></td>
-        <td>WS-5000</td>
-        <td>Wind speed<br>Direction<br>Rainfall<br>UV<br>Solar radiation<br>Barometric pressure<br>Temperature<br>Humidity<br>Dew point<br>Heat index<br>Wind chill<br><br></td>
-    </tr>
-    <tr><td><img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="600"></td>
-        <td>PM2.5 Wireless Outdoor<br>Particulate Monitor</td>
-        <td>PM 2.5<br><br></td>
-    </tr>
-    <tr>
-    <td></td>
-        <td>Solar Wi-Fi Weather Camera</td>
-        <td><br><br></td>
-    </tr>
-</table>
 
-<hr>
-
-<div class="bio-section">
-<div>
-  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600"><br>
+<div class="wx-section">
+  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600">
+  <div class="wx-text">
+<h3>WS-5000</h3>
+<ul>
+<li>Wind speed</li>
+<li>Direction</li>
+<li>Rainfall</li>
+<li>UV</li>
+<li>Solar radiation</li>
+<li>Barometric pressure</li>
+<li>Temperature</li>
+<li>Humidity</li>
+<li>Dew point</li>
+<li>Heat index</li>
+<li>Wind chill</li>
+</ul>
+</div></div>
+<div class="wx-section">
       <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="600">
-      </div>
-  <div class="bio-text">
+<div class="wx-text">
+<h3>PM2.5 Wireless OutdoorParticulate Monitor</h3>
+  <ul><li>PM 2.5</li></ul>
+</div></div>
+<div class="wx-section">
+<div class="wx-text">
 
-<table>
-    <tr>
-        <td><b>Instrument</b></td>
-        <td><b>Measures</b></td>
-    </tr>
-    <tr>
-        <td>WS-5000</td>
-        <td>Wind speed<br>Direction<br>Rainfall<br>UV<br>Solar radiation<br>Barometric pressure<br>Temperature<br>Humidity<br>Dew point<br>Heat index<br>Wind chill<br><br></td>
-    </tr>
-    <tr>
-        <td>PM2.5 Wireless Outdoor<br>Particulate Monitor</td>
-        <td>PM 2.5<br><br></td>
-    </tr>
-    <tr>
-        <td>Solar Wi-Fi Weather Camera</td>
-        <td><br><br></td>
-    </tr>
-</table>
+
+<h3>Solar Wi-Fi Weather Camera</h3>
+
   </div>
 
 </div>
@@ -62,10 +48,10 @@ This page is a work in progress
 ## CoCoRaHS Precipitation Gauge
 
 
-<div class="bio-section">
+<div class="wx-section">
 <div>
   <img src="/assets/img/rain.jpeg" alt="Ambient Weather Station" width="400">
       </div>
-  <div class="bio-text">
+  <div class="wx-text">
 
 CoCoRaHS is the <u>Co</u>mmunity <u>Co</u>laboratorive <u>Ra</u>in, <u>H</u>ail, and <u>S</u>now network. 

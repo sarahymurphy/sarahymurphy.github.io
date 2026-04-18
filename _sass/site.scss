@@ -328,3 +328,62 @@ header .entry-meta {
   }
 }
 
+/* Option 1: CSS Grid (Recommended) */
+.wx-section {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: start;
+}
+
+.wx-section.reverse {
+  grid-template-columns: 1fr 400px;
+}
+
+/* Option 2: Flexbox Alternative */
+.wx-section-flex {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+
+.wx-section-flex.reverse {
+  flex-direction: row-reverse;
+}
+
+.wx-section-flex img {
+  flex-shrink: 0;
+  width: 400px;
+}
+
+/* Shared styles */
+.wx-section img, .wx-section-flex img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
+
+.wx-text {
+  line-height: 1.6;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .wx-section, 
+  .wx-section.reverse,
+  .wx-section-flex,
+  .wx-section-flex.reverse {
+    flex-direction: column;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .wx-section img, .wx-section-flex img {
+    max-width: 400px;
+    justify-self: center;
+    align-self: center;
+  }
+}
+
