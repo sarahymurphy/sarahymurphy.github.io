@@ -9,6 +9,25 @@ comments: false
 This page is a work in progress
 
 ## AmbientWeather Network Station
+<table>
+    <tr>
+  <td>
+  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600"></td>
+        <td>WS-5000</td>
+        <td>Wind speed<br>Direction<br>Rainfall<br>UV<br>Solar radiation<br>Barometric pressure<br>Temperature<br>Humidity<br>Dew point<br>Heat index<br>Wind chill<br><br></td>
+    </tr>
+    <tr><td><img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="600"></td>
+        <td>PM2.5 Wireless Outdoor<br>Particulate Monitor</td>
+        <td>PM 2.5<br><br></td>
+    </tr>
+    <tr>
+    <td></td>
+        <td>Solar Wi-Fi Weather Camera</td>
+        <td><br><br></td>
+    </tr>
+</table>
+
+<hr>
 
 <div class="bio-section">
 <div>
