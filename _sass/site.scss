@@ -368,6 +368,10 @@ header .entry-meta {
 .wx-text {
   line-height: 1.6;
 }
+.wx-section .h3 {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+}
 
 /* Responsive design */
 @media (max-width: 768px) {
