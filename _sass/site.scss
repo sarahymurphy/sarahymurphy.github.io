@@ -388,7 +388,10 @@ header .entry-meta {
   }
 }
 
-/* Remove space from the heading */
+.wx-text h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
 .wx-text h3 {
     margin-bottom: 0;
 }

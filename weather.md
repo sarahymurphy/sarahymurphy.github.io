@@ -13,5 +13,5 @@ Curious about the station setup? <a href="https://www.sarahymurphy.com/wxstation
 
 <br><br>
 
-<iframe width="100%" height="2000" frameborder="0" src="https://ambientweather.net/devices/public/820a6846394aba7d5529e2007de0081c?embed=true"></iframe><p>powered by <a target="_blank" href="https://ambientweather.net">Ambient Weather</a></p>
+<iframe width="150%" height="2000" frameborder="0" src="https://ambientweather.net/devices/public/820a6846394aba7d5529e2007de0081c?embed=true"></iframe><p>powered by <a target="_blank" href="https://ambientweather.net">Ambient Weather</a></p>
 
