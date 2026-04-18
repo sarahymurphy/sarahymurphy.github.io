@@ -13,7 +13,7 @@ This page is a work in progress
 <div class="bio-section">
 <div>
   <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="300"><br>
-      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="300" rotate="90">
+      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="300">
       </div>
   <div class="bio-text">
 
@@ -42,3 +42,9 @@ This page is a work in progress
 
 ## CoCoRaHS Precipitation Gauge
 
+
+<div class="bio-section">
+<div>
+  <img src="/assets/img/rain.jpeg" alt="Ambient Weather Station" width="300">
+      </div>
+  <div class="bio-text">
