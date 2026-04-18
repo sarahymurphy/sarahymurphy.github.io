@@ -8,30 +8,31 @@ comments: false
 
 This page is a work in progress
 
-# AmbientWeather Network Station
+<center><h1>AmbientWeather Network Station</h1></center>
 
 <div class="wx-section">
   <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600">
   <div class="wx-text">
 <h2>WS-5000</h2>
+<h3>Monitors</h3>
 <ul>
-<li>Wind speed</li>
-<li>Direction</li>
-<li>Rainfall</li>
-<li>UV</li>
-<li>Solar radiation</li>
 <li>Barometric pressure</li>
-<li>Temperature</li>
-<li>Humidity</li>
 <li>Dew point</li>
 <li>Heat index</li>
+<li>Humidity</li>
+<li>Rainfall</li>
+<li>Solar radiation</li>
+<li>Temperature</li>
 <li>Wind chill</li>
+<li>Wind direction</li>
+<li>Wind speed</li>
 </ul>
 </div></div>
 <div class="wx-section">
       <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="600">
 <div class="wx-text">
-<h2>PM2.5 Wireless OutdoorParticulate Monitor</h2>
+<h2>PM2.5 Wireless Outdoor Particulate Monitor</h2>
+<h3>Monitors</h3>
   <ul><li>PM 2.5</li></ul>
 </div></div>
 <div class="wx-section">
@@ -45,13 +46,13 @@ This page is a work in progress
 </div>
 
 
-## CoCoRaHS Precipitation Gauge
+<center><h1>CoCoRaHS Precipitation Gauge</h1></center>
 
 
 <div class="wx-section">
 <div>
-  <img src="/assets/img/rain.jpeg" alt="Ambient Weather Station" width="400">
+  <img src="/assets/img/rain.jpeg" alt="CoCoRaHS rain gauge" width="400">
       </div>
   <div class="wx-text">
 
-CoCoRaHS is the <u>Co</u>mmunity <u>Co</u>laboratorive <u>Ra</u>in, <u>H</u>ail, and <u>S</u>now network. 
+CoCoRaHS is the <u>Co</u>mmunity <u>Co</u>laboratorive <u>Ra</u>in, <u>H</u>ail, and <u>S</u>now network. Our gauge is mounted 5 feet above the ground and has bird spikes installed. Gauge was installed on April 17, 2026 and observations are taken at 7am daily.
