@@ -13,5 +13,8 @@ Curious about the station setup? <a href="https://www.sarahymurphy.com/wxstation
 
 <br><br>
 
-<iframe width="100%" height="2000" frameborder="0" src="https://ambientweather.net/devices/public/820a6846394aba7d5529e2007de0081c?embed=true"></iframe><p>powered by <a target="_blank" href="https://ambientweather.net">Ambient Weather</a></p>
+<iframe width="100%" height="1800" frameborder="0" src="https://ambientweather.net/devices/public/820a6846394aba7d5529e2007de0081c?embed=true"></iframe><p>powered by <a target="_blank" href="https://ambientweather.net">Ambient Weather</a></p>
 
+<br><br>
+Meet Cloud, our station's eponym. <br>
+<img src="/assets/img/cloud1.jpeg" width="300"> <img src="/assets/img/cloud2.jpeg" width="300">
