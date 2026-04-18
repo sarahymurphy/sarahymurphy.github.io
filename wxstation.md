@@ -8,12 +8,12 @@ comments: false
 
 This page is a work in progress
 
-## AmbientWeather Network Station
+# AmbientWeather Network Station
 
 <div class="wx-section">
   <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="600">
   <div class="wx-text">
-<h3>WS-5000</h3>
+<h2>WS-5000</h2>
 <ul>
 <li>Wind speed</li>
 <li>Direction</li>
@@ -31,14 +31,14 @@ This page is a work in progress
 <div class="wx-section">
       <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="600">
 <div class="wx-text">
-<h3>PM2.5 Wireless OutdoorParticulate Monitor</h3>
+<h2>PM2.5 Wireless OutdoorParticulate Monitor</h2>
   <ul><li>PM 2.5</li></ul>
 </div></div>
 <div class="wx-section">
 <div class="wx-text">
 
 
-<h3>Solar Wi-Fi Weather Camera</h3>
+<h2>Solar Wi-Fi Weather Camera</h2>
 
   </div>
 
