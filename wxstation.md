@@ -14,11 +14,24 @@ This page is a work in progress
   <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="300">
   <div class="bio-text">
 
-| Instrument | Measures |
-| ---------- | -------- | 
-| Ambient Weather WS-5000 | Wind speed<br>Direction<br>Rainfall<br>UV<br>Solar radiation<br>Barometric pressure<br>Yemperature<br>Humidity<br>Dew point<br>Heat index<br>Wind chill |
-| Ambient Weather PM25 Wireless Outdoor Particulate Monitor | PM 2.5 |
-| Cloud Cam | | 
+<table>
+    <tr>
+        <td>Instrument</td>
+        <td>Measures</td>
+    </tr>
+    <tr>
+        <td>Ambient Weather WS-5000</td>
+        <td>Wind speed<br>Direction<br>Rainfall<br>UV<br>Solar radiation<br>Barometric pressure<br>Temperature<br>Humidity<br>Dew point<br>Heat index<br>Wind chill</td>
+    </tr>
+    <tr>
+        <td>Ambient Weather PM25 Wireless Outdoor Particulate Monitor</td>
+        <td>PM 2.5</td>
+    </tr>
+    <tr>
+        <td>Cloud Cam</td>
+        <td></td>
+    </tr>
+</table>
 
   </div>
 </div>
