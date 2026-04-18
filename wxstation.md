@@ -10,13 +10,19 @@ This page is a work in progress
 
 ## AmbientWeather Network Station
 
+<div class="bio-section">
+  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="300">
+  <div class="bio-text">
+
 | Instrument | Measures |
 | ---------- | -------- | 
 | Ambient Weather WS-5000 | Wind speed<br>Direction<br>Rainfall<br>UV<br>Solar radiation<br>Barometric pressure<br>Yemperature<br>Humidity<br>Dew point<br>Heat index<br>Wind chill |
 | Ambient Weather PM25 Wireless Outdoor Particulate Monitor | PM 2.5 |
 | Cloud Cam | | 
 
-<img src="/assets/img/awn.jpeg" alt="Ambient Weather Station">
+  </div>
+</div>
+
 
 ## CoCoRaHS Precipitation Gauge
 
