@@ -12,8 +12,8 @@ This page is a work in progress
 
 <div class="bio-section">
 <div>
-  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="300"><br>
-      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="300">
+  <img src="/assets/img/awn.jpeg" alt="Ambient Weather Station" width="400"><br>
+      <img src="/assets/img/pm.jpeg" alt="PM2.5 Sensor" width="400">
       </div>
   <div class="bio-text">
 
@@ -45,6 +45,8 @@ This page is a work in progress
 
 <div class="bio-section">
 <div>
-  <img src="/assets/img/rain.jpeg" alt="Ambient Weather Station" width="300">
+  <img src="/assets/img/rain.jpeg" alt="Ambient Weather Station" width="400">
       </div>
   <div class="bio-text">
+
+CoCoRaHS is the <u>Co</u>mmunity <u>Co</u>laboratorive <u>Ra</u>in, <u>H</u>ail, and <u>S</u>now network. 
