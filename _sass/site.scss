@@ -368,10 +368,7 @@ header .entry-meta {
 .wx-text {
   line-height: 1.6;
 }
-.wx-section .h3 {
-  margin-top: 0;
-  margin-bottom: 0.2em;
-}
+
 
 /* Responsive design */
 @media (max-width: 768px) {
@@ -391,3 +388,12 @@ header .entry-meta {
   }
 }
 
+/* Remove space from the heading */
+.wx-section h2 {
+    margin-bottom: 0;
+}
+
+/* Remove space from the top of the list */
+.wx-section ul {
+    margin-top: 0;
+}
