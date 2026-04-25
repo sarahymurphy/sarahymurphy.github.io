@@ -20,6 +20,5 @@ Meet Cloud, our station's eponym. <br>
 
 <div class="wx-section2">
 <div>
-<img src="/assets/img/cloud1.jpeg">
-<img src="/assets/img/cloud2.jpeg">
+<img src="/assets/img/cloud1.jpeg"><img src="/assets/img/cloud2.jpeg">
 </div></div>
