@@ -20,6 +20,6 @@ Meet Cloud, our station's eponym. <br>
 
 <div class="wx-section2">
 <img src="/assets/img/cloud1.jpeg">
-<div class="wx-text2">
+<div class="wx-text">
 <img src="/assets/img/cloud2.jpeg">
 </div></div>
