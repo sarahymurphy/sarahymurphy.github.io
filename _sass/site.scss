@@ -363,6 +363,17 @@ header .entry-meta {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   object-fit: cover;
 }
+.wx-section2 img {
+  flex-shrink: 0;
+  height: 200px;
+}
+
+/* Shared styles */
+.wx-section2 img, .wx-section-flex img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
 
 .wx-text {
   line-height: 1.6;
@@ -385,6 +396,11 @@ header .entry-meta {
     align-self: center;
   }
 }
+  .wx-section2 img, .wx-section-flex img {
+    justify-self: center;
+    align-self: center;
+    height: 200px
+  }
 
 .wx-text h2 {
     margin-top: 0;

@@ -18,8 +18,7 @@ Curious about the station setup? <a href="https://www.sarahymurphy.com/wxstation
 <br><br>
 Meet Cloud, our station's eponym. <br>
 
-<div class="wx-section">
-  <img src="/assets/img/cloud1.jpeg" alt="Cloud" height=200>
-  <div class="wx-text">
-<img src="/assets/img/cloud2.jpeg" height=200>
+<div class="wx-section2">
+  <img src="/assets/img/cloud1.jpeg" alt="Cloud">
+<img src="/assets/img/cloud2.jpeg">
 </div></div>
