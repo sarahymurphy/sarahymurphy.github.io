@@ -414,3 +414,22 @@ header .entry-meta {
 .wx-text ul {
     margin-top: 0;
 }
+
+
+/* Shared styles */
+.wx-cloud img, img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
+.wx-cloud img {
+  flex-shrink: 0;
+  height: 150px;
+}
+
+/* Shared styles */
+.wx-cloud img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
