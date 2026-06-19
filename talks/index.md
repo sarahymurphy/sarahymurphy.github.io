@@ -5,8 +5,18 @@ tags:
 comments: false
 ---
 
-<div class="presentations-page">
-    <div class="section">
+<div class="presentations-page workshops-page">
+    <div class="section" id="jump-to">
+        <div class="section-header">Jump to:</div>
+        <div class="presentation-item">
+            <a href="#science-talks" class="video-link">Science Talks</a>
+            <a href="#poster-presentations" class="video-link">Poster Presentations</a>
+            <a href="#programming-tutorials" class="video-link">Programming Tutorials</a>
+            <a href="#workshops" class="video-link">Workshops</a>
+        </div>
+    </div>
+
+    <div class="section" id="science-talks">
         <div class="section-header">Science Talks</div>
         <div class="presentation-item">
             <div class="presentation-title"><a href="https://umaine.edu/mitchellcenter/2025-mswc-proposed-sessions/2025-mswc-session-i-sustainable-water-resources-for-maine-agriculture-and-rural-water-use">
@@ -79,7 +89,92 @@ comments: false
         </div>
     </div>
 
-    <div class="section">
+    <div class="section" id="poster-presentations">
+        <div class="section-header">Poster Presentations</div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1566772">Sharing Data, Code, and Analyses Across Organizations: Challenges and Breakthroughs with the Interagency Flood Typing and Mixed Population Study</a>
+            </div>
+            <div class="presentation-venue">American Geophysical Union 2024 Fall Meeting</div>
+            <div class="presentation-date">10 December 2024</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/748109">Testing boundary layer and cloud parameterizations in the Polar Weather Research and Forecasting model using data from the Norwegian Young Sea ICE (N-ICE2015) cruise</a>
+            </div>
+            <div class="presentation-venue">American Geophysical Union 2020 Fall Meeting</div>
+            <div class="presentation-date">15 December 2020</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">An Evaluation of Polar WRF During N-ICE2015</div>
+            <div class="presentation-venue">IEEE WIE International Leadership Summit 2019</div>
+            <div class="presentation-date">30 July 2019</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://ams.confex.com/ams/15CLOUD15ATRAD/webprogram/Paper347736.html">Comparison of Atmospheric and Cloud Observations with Model Simulations in Three Seasons during the N-ICE2015 Field Campaign</a>
+            </div>
+            <div class="presentation-venue">American Meteorological Society 15th Conference on Atmospheric Radiation</div>
+            <div class="presentation-date">11 July 2018</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment</div>
+            <div class="presentation-venue">2017 Radiation and Climate Gordon Research Conference: Connecting Observations to Global Circulation Modeling Challenges</div>
+            <div class="presentation-date">July 2017</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment</div>
+            <div class="presentation-venue">2017 Gordon Research Seminar on Radiation and Climate: Future Challenges in Using Models and Observations for Understanding Climate Processes</div>
+            <div class="presentation-date">July 2017</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/193050">Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment</a>
+            </div>
+            <div class="presentation-venue">American Geophysical Union 2016 Fall Meeting</div>
+            <div class="presentation-date">15 December 2016</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://www.candac.ca/create/ss2016/summerschool2016.html">A Preliminary Case Study of Cloud Radiative Forcing During the N-ICE2015 Experiment</a>
+            </div>
+            <div class="presentation-venue">2016 Connaught Summer Institute in Arctic Science: Atmosphere, Cryosphere, and Climate</div>
+            <div class="presentation-date">July 2017</div>
+            <div class="presentation-description">(poster shown near bottom of page)</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">Observational Capabilities of the FRONT Network: 21 May 2014</div>
+            <div class="presentation-venue">40th Annual Northeastern Storm Conference</div>
+            <div class="presentation-date">March 2015</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://ams.confex.com/ams/95Annual/webprogram/Paper266241.html">Observational Capabilities of the FRONT Network: 21 May 2014</a>
+            </div>
+            <div class="presentation-venue">American Meteorological Society 14th Annual Student Conference</div>
+            <div class="presentation-date">4 January 2015</div>
+        </div>
+
+        <div class="presentation-item">
+            <div class="presentation-title">
+                <a href="https://ams.confex.com/ams/95Annual/webprogram/Paper266225.html">Observational Capabilities of the FRONT Network: 21 May 2014</a>
+            </div>
+            <div class="presentation-venue">American Meteorological Society's 31st Conference on Environmental Information Processing Technologies as part of the 95th Annual Meeting</div>
+            <div class="presentation-date">7 January 2015</div>
+        </div>
+    </div>
+
+    <div class="section" id="programming-tutorials">
         <div class="section-header">Programming Tutorials</div>
 
         <div class="presentation-item">
@@ -165,91 +260,7 @@ comments: false
         </div>
     </div>
 
-    <div class="section">
-        <div class="section-header">Poster Presentations</div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1566772">Sharing Data, Code, and Analyses Across Organizations: Challenges and Breakthroughs with the Interagency Flood Typing and Mixed Population Study</a>
-            </div>
-            <div class="presentation-venue">American Geophysical Union 2024 Fall Meeting</div>
-            <div class="presentation-date">10 December 2024</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/748109">Testing boundary layer and cloud parameterizations in the Polar Weather Research and Forecasting model using data from the Norwegian Young Sea ICE (N-ICE2015) cruise</a>
-            </div>
-            <div class="presentation-venue">American Geophysical Union 2020 Fall Meeting</div>
-            <div class="presentation-date">15 December 2020</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">An Evaluation of Polar WRF During N-ICE2015</div>
-            <div class="presentation-venue">IEEE WIE International Leadership Summit 2019</div>
-            <div class="presentation-date">30 July 2019</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://ams.confex.com/ams/15CLOUD15ATRAD/webprogram/Paper347736.html">Comparison of Atmospheric and Cloud Observations with Model Simulations in Three Seasons during the N-ICE2015 Field Campaign</a>
-            </div>
-            <div class="presentation-venue">American Meteorological Society 15th Conference on Atmospheric Radiation</div>
-            <div class="presentation-date">11 July 2018</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment</div>
-            <div class="presentation-venue">2017 Radiation and Climate Gordon Research Conference: Connecting Observations to Global Circulation Modeling Challenges</div>
-            <div class="presentation-date">July 2017</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment</div>
-            <div class="presentation-venue">2017 Gordon Research Seminar on Radiation and Climate: Future Challenges in Using Models and Observations for Understanding Climate Processes</div>
-            <div class="presentation-date">July 2017</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/193050">Seasonal Variation of Cloud Radiative Forcing Over Young Sea Ice During the N-ICE2015 Experiment</a>
-            </div>
-            <div class="presentation-venue">American Geophysical Union 2016 Fall Meeting</div>
-            <div class="presentation-date">15 December 2016</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://www.candac.ca/create/ss2016/summerschool2016.html">A Preliminary Case Study of Cloud Radiative Forcing During the N-ICE2015 Experiment</a>
-            </div>
-            <div class="presentation-venue">2016 Connaught Summer Institute in Arctic Science: Atmosphere, Cryosphere, and Climate</div>
-            <div class="presentation-date">July 2017</div>
-            <div class="presentation-description">(poster shown near bottom of page)</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">Observational Capabilities of the FRONT Network: 21 May 2014</div>
-            <div class="presentation-venue">40th Annual Northeastern Storm Conference</div>
-            <div class="presentation-date">March 2015</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://ams.confex.com/ams/95Annual/webprogram/Paper266241.html">Observational Capabilities of the FRONT Network: 21 May 2014</a>
-            </div>
-            <div class="presentation-venue">American Meteorological Society 14th Annual Student Conference</div>
-            <div class="presentation-date">4 January 2015</div>
-        </div>
-
-        <div class="presentation-item">
-            <div class="presentation-title">
-                <a href="https://ams.confex.com/ams/95Annual/webprogram/Paper266225.html">Observational Capabilities of the FRONT Network: 21 May 2014</a>
-            </div>
-            <div class="presentation-venue">American Meteorological Society's 31st Conference on Environmental Information Processing Technologies as part of the 95th Annual Meeting</div>
-            <div class="presentation-date">7 January 2015</div>
-        </div>
-    </div>
-    <div class="intro-section">
+    <div class="intro-section" id="workshops">
         <p>I am a certified <a href="https://carpentries.org/">Data and Software Carpentry</a> instructor and have been
             helping with coding/data science workshops since 2018. I am also a lead maintainer for the <a
                 href="https://carpentrieslab.github.io/python-aos-lesson/">Python for Atmosphere and Ocean
