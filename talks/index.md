@@ -8,7 +8,6 @@ comments: false
 <div class="presentations-page">
     <div class="section">
         <div class="section-header">Science Talks</div>
-
         <div class="presentation-item">
             <div class="presentation-title"><a href="https://umaine.edu/mitchellcenter/2025-mswc-proposed-sessions/2025-mswc-session-i-sustainable-water-resources-for-maine-agriculture-and-rural-water-use">
                 Session I: Sustainabile Water Resources for Maine Agriculture and Rural Water Use (session chair)</a>
@@ -250,5 +249,338 @@ comments: false
             <div class="presentation-date">7 January 2015</div>
         </div>
     </div>
+    <div class="intro-section">
+        <p>I am a certified <a href="https://carpentries.org/">Data and Software Carpentry</a> instructor and have been
+            helping with coding/data science workshops since 2018. I am also a lead maintainer for the <a
+                href="https://carpentrieslab.github.io/python-aos-lesson/">Python for Atmosphere and Ocean
+                Scientists</a> Data Carpentry lesson. I organized and led the <a
+                href="https://cereo.wsu.edu/python-working-group/">Washington State University Python Working Group</a>,
+            a group for students and professionals to share Python knowledge, during the '21/'22 school year.</p>
 
+        <p><strong>Tutorials I've written:</strong><br><a
+                href="https://sarahymurphy.github.io/workshops/GithubPages.html">GitHub Pages</a></p>
+    </div>
+
+    <div class="timeline">
+
+        <div class="year-section">
+            <div class="year-header">2025</div>
+            <div class="workshop-card">
+                <div class="workshop-title">Introduction to Geospatial Python</div>
+                <div class="workshop-subtitle">USGS New England Water Science Center</div>
+                <div class="workshop-details">
+                    <span class="date">August 24 - 25, 2025</span>
+                    <span class="location">Northborough, MA</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2024</div>
+            <div class="workshop-card">
+                <div class="workshop-title">Introduction to Python & USGS Tools</div>
+                <div class="workshop-subtitle">USGS New England Water Science Center</div>
+                <div class="workshop-details">
+                    <span class="date">May 1 - 2, 2024</span>
+                    <span class="location">Augusta, ME</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Created lessons for this pilot workshop to guide participants through the basics of using Python in VS Code and introducing key USGS Python tools.</li>
+                    </ul>
+               </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2023</div>
+            <div class="workshop-card">
+                <div class="workshop-title">AgAID 2023 Digital AgAth0n</div>
+                <div class="workshop-subtitle">AgAID Institute</div>
+                <div class="workshop-details">
+                    <span class="date">January 27 - 29, 2023</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Helped to lead, organize, and provide support for a three-day, multi university
+                            agriculture hackathon.</li>
+                    </ul>
+                    <div class="award-highlight">
+                        <strong>Was awarded the AgAID Award of Excellence in Leadership for volunteering time to
+                            ensuring the success of the event.</strong>
+                    </div>
+                    <a href="https://agaid.org/digital-agathon-2023/" class="workshop-links"><i class="fa fa-external-link"></i> Event website</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2022</div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Northern Vermont University's Atmospheric Sciences New Student
+                    Seminar Panelist</div>
+                <div class="workshop-subtitle">Climate Change Research & Graduate School</div>
+                <div class="workshop-details">
+                    <span class="date">September 14, 2022</span>
+                    <span class="location">Lyndonville, VT via Zoom</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Participated as a panelist answering questions from first-year undergraduate
+                            students about graduate school and my Ph.D. research.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">CEREO REU Data Wrangling Workshop</div>
+                <div class="workshop-subtitle">Documenting Research with R Markdown</div>
+                <div class="workshop-details">
+                    <span class="date">June 27 - 30, 2022</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Gave introductory talk on data-intensive research, public datasets, and the
+                            importance of documenting your data.</li>
+                        <li>Assisted in moderating and helping with questions from participants when not
+                            instructing.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Graduate School/Arctic Research</div>
+                <div class="workshop-details">
+                    <span class="date">June 16, 2022</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Gave as part of a series of two talks to the new Laboratory for Atmospheric Research
+                            students:</li>
+                    </ul>
+                    <ol>
+                        <li>How I got into graduate school, what it's like to be a graduate student, and a bit
+                            about my research and experience as an Arctic researcher.</li>
+                        <li>An introduction to Python Programming and an introduction to Unix and command line
+                            syntax.</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Introduction to Python and navigating the command line</div>
+                <div class="workshop-details">
+                    <span class="date">June 24, 2022</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Gave as part of a series of two talks to the new Laboratory for Atmospheric Research
+                            students:</li>
+                    </ul>
+                    <ol>
+                        <li>How I got into graduate school, what it's like to be a graduate student, and a bit
+                            about my research and experience as an Arctic researcher.</li>
+                        <li>An introduction to Python Programming and an introduction to Unix and command line
+                            syntax.</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Alumni Guest Speaker - Northern Vermont University AMS and NWA
+                    Chapter General Business Meeting</div>
+                <div class="workshop-subtitle">How I got into Graduate School</div>
+                <div class="workshop-details">
+                    <span class="date">April 14, 2022</span>
+                    <span class="location">via Zoom</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Gave a brief talk about my experience getting into graduate school and some advice
+                            for undergraduate students looking to get into graduate school/research</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2021</div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">CEREO REU Data Wrangling Workshop</div>
+                <div class="workshop-subtitle">Documenting Research with R Markdown</div>
+                <div class="workshop-details">
+                    <span class="date">June 7 - 8, 2021</span>
+                    <span class="location">via Zoom</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Lead a 2-hour lesson on how to use R Markdown to document your research.</li>
+                        <li>Assisted in moderating the Zoom meeting and helping with questions from participants
+                            when not instructing.</li>
+                        <li>Created and maintained the workshop website.</li>
+                    </ul>
+                    <a href="https://sarahymurphy.github.io/2021-06-07-cereo-reu-data-wrangling/"
+                        class="workshop-links"><i class="fa fa-external-link"></i> Workshop website</a>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Reproducible Research Techniques with R</div>
+                <div class="workshop-subtitle">GitHub Pages</div>
+                <div class="workshop-details">
+                    <span class="date">March 15 - 19, 2021</span>
+                    <span class="location">via Zoom</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Lead a 4 hour workshop via Zoom guiding participants through creating their own
+                            professional GitHub Pages website using my own GitHub pages lesson.</li>
+                        <li>Assisted in moderating the Zoom meeting and helping with questions from participants
+                            when not instructing.</li>
+                    </ul>
+                    <a href="https://cereo.wsu.edu/reproducible-r-workshop/" class='workshop-links'><i class="fa fa-external-link"></i> Workshop website</a>
+                </div>
+            </div>
+
+            <div class=" workshop-card">
+                        <div class="workshop-title">Python for Climate and Meteorology - American Meteorological
+                            Society Short Course</div>
+                        <div class="workshop-details">
+                            <span class="date">March 2, 4, 9, and 11, 2021</span>
+                            <span class="location">via GoToMeeting</span>
+                        </div>
+                        <div class="workshop-content">
+                            <ul>
+                                <li>Instructed <a
+                                        href="https://carpentrieslab.github.io/python-aos-lesson/03-functions/index.html">functions</a>,
+                                    <a
+                                        href="https://carpentrieslab.github.io/python-aos-lesson/06-github/index.html">GitHub</a>,
+                                    and <a
+                                        href="https://carpentrieslab.github.io/python-aos-lesson/09-provenance/index.html">data
+                                        provenance</a>.
+                                </li>
+                                <li>Helped for all other lessons in the <a
+                                        href="https://carpentrieslab.github.io/python-aos-lesson/">Python for
+                                        Atmosphere and Ocean Scientists</a>.</li>
+                            </ul>
+
+                            <a href="https://damienirving.github.io/2021-03-02-ams/" class="workshop-links"><i class="fa fa-external-link"></i> Workshop
+                                website</a> 
+                            <a href="https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses1/python-for-climate-and-meteorology/"
+                                class="workshop-links"><i class="fa fa-external-link"></i> AMS Workshop Website
+                    </a><br>
+                    <a href="https://youtu.be/uQZAEPnUZ5o" class="workshop-links"><i class="fa fa-video-camera"></i> Day one video</a> 
+                    <a href="https://youtu.be/vVQxr6UaCl4" class="workshop-links"><i class="fa fa-video-camera"></i> Day two video</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2020</div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Reproducible Research Techniques with R</div>
+                <div class="workshop-subtitle">GitHub Pages</div>
+                <div class="workshop-details">
+                    <span class="date">November 12 - 20, 2020</span>
+                    <span class="location">via Zoom</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Developed GitHub Pages lesson.</li>
+                        <li>Lead a 2.5 hour workshop via Zoom guiding participants through creating their own
+                            professional GitHub Pages website.</li>
+                        <li>Assisted in moderating the Zoom meeting and helping with questions from participants
+                            when not instructing.</li>
+                    </ul>
+                    <a href="https://cereo.wsu.edu/reproducible-r-workshop/" class="workshop-links"><i class="fa fa-external-link"></i> Workshop
+                    website</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2019</div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Data Carpentry</div>
+                <div class="workshop-subtitle">Data Organization in Spreadsheets</div>
+                <div class="workshop-details">
+                    <span class="date">October 10 - 11, 2019</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Lead a two-hour session following <a
+                                href="https://datacarpentry.org/spreadsheet-ecology-lesson/">Data Carpentry's
+                                Data Organization in Spreadsheets for Ecologists</a>.</li>
+                    </ul>
+                    <a href="https://mbrousil.github.io/2019-10-10-wsu/" class="workshop-links"><i class="fa fa-external-link"></i> Workshop
+                    website</a>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Software Carpentry</div>
+                <div class="workshop-subtitle">Intro to Python</div>
+                <div class="workshop-details">
+                    <span class="date">April 8 - 9, 2019</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Lead two two-hour sessions following <a
+                                href="http://swcarpentry.github.io/python-novice-gapminder/">Software
+                                Carpentry's Plotting and Programming in Python</a>.</li>
+                    </ul>
+                    <a href="https://mbrousil.github.io/2019-04-08-wsu/" class="workshop-links"><i class="fa fa-external-link"></i> Workshop
+                    website</a>
+                </div>
+            </div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">AAEC Python Workshop</div>
+                <div class="workshop-details">
+                    <span class="date">March 14 - 15, 2019</span>
+                    <span class="location">Prosser, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Lead a two-day introductory Python workshop using primarily materials from <a
+                                href="http://swcarpentry.github.io/python-novice-gapminder/">Software
+                                Carpentry's Plotting and Programming in Python</a> and <a
+                                href="https://datacarpentry.org/python-ecology-lesson/">Data Carpentry's Data
+                                Analysis and Visualization in Python for Ecologists</a>.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="year-section">
+            <div class="year-header">2018</div>
+
+            <div class="workshop-card">
+                <div class="workshop-title">Data Carpentry</div>
+                <div class="workshop-subtitle">Intro to Python</div>
+                <div class="workshop-details">
+                    <span class="date">October 25 - 26, 2018</span>
+                    <span class="location">Pullman, WA</span>
+                </div>
+                <div class="workshop-content">
+                    <ul>
+                        <li>Lead one two-hour session following <a
+                                href="https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/index.html">Data
+                                Carpentry's Data Analysis and Visualization in Python for Ecologists</a>.</li>
+                    </ul>
+                    <a href="https://mbrousil.github.io/2018-10-25-wsu/" class="workshop-links"><i class="fa fa-external-link"></i> Workshop website</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
