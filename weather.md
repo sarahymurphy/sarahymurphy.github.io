@@ -9,7 +9,7 @@ comments: false
 Curious about the station setup? <a href="https://www.sarahymurphy.com/wxstation/">Click here!</a><br><br>
 
 <a href="https://dex.cocorahs.org/stations/ME-KB-60">CoCoRaHS Station Explorer - Precipitation Site ME-KB-60</a><br>
-<a href="https://docs.google.com/spreadsheets/d/16tjSps2qSPTsoABiUq-QTfyJEJfKnNlVNdcmw6w_rjg/edit?usp=sharing">Precipitation Record</a><br>
+<br>
 
 <br><br>
 
