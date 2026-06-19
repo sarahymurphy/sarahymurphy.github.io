@@ -264,7 +264,7 @@ comments: false
         <div class="section-header">Workshops and Community Involvement</div>
     </div>
 
-    <div class="intro-section">
+    <div>
         <p>I am a certified <a href="https://carpentries.org/">Data and Software Carpentry</a> instructor and have been
             helping with coding/data science workshops since 2018. I am also a lead maintainer for the <a
                 href="https://carpentrieslab.github.io/python-aos-lesson/">Python for Atmosphere and Ocean
