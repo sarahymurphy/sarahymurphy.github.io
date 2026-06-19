@@ -7,13 +7,13 @@ comments: false
 
 <div class="presentations-page workshops-page">
     <div class="section" id="jump-to">
-        <div class="section-header">Jump to:</div>
-        <div class="presentation-item">
-            <a href="#science-talks" class="video-link">Science Talks</a>
-            <a href="#poster-presentations" class="video-link">Poster Presentations</a>
-            <a href="#programming-tutorials" class="video-link">Programming Tutorials</a>
-            <a href="#workshops" class="video-link">Workshops</a>
-        </div>
+        <p>
+            <strong>Jump to:</strong>
+            <a href="#science-talks">Science Talks</a> |
+            <a href="#poster-presentations">Poster Presentations</a> |
+            <a href="#programming-tutorials">Programming Tutorials</a> |
+            <a href="#workshops">Workshops</a>
+        </p>
     </div>
 
     <div class="section" id="science-talks">
@@ -260,7 +260,11 @@ comments: false
         </div>
     </div>
 
-    <div class="intro-section" id="workshops">
+    <div class="section" id="workshops">
+        <div class="section-header">Workshops and Community Involvement</div>
+    </div>
+
+    <div class="intro-section">
         <p>I am a certified <a href="https://carpentries.org/">Data and Software Carpentry</a> instructor and have been
             helping with coding/data science workshops since 2018. I am also a lead maintainer for the <a
                 href="https://carpentrieslab.github.io/python-aos-lesson/">Python for Atmosphere and Ocean
