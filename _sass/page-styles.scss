@@ -70,7 +70,7 @@
 /* Find me page styles */
 .findme-page {
     .findme-wrap {
-        max-width: 420px;
+        max-width: 340px !important;
         margin: 0 auto;
     }
 
@@ -79,9 +79,19 @@
         text-align: center;
     }
 
+    .findme-section-title {
+        margin: 1.1rem 0 0.55rem;
+        font-size: 0.78rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        text-align: center;
+        opacity: 0.75;
+    }
+
     .findme-links {
         list-style: none;
-        margin: 0;
+        margin: 0 0 0.25rem;
         padding: 0;
     }
 
