@@ -8,7 +8,6 @@ comments: false
 
 <div class="findme-page">
 	<div class="findme-wrap">
-	<p class="findme-intro">One place for all my online profiles.</p>
 	<h2 class="findme-section-title">Contact</h2>
 
 	<ul class="findme-links">
