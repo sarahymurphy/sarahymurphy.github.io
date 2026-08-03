@@ -66,3 +66,41 @@
         letter-spacing: -1px;
     }
 }
+
+/* Find me page styles */
+.findme-page {
+    .findme-wrap {
+        max-width: 420px;
+        margin: 0 auto;
+    }
+
+    .findme-intro {
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+
+    .findme-links {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .findme-links li {
+        margin: 0 0 0.65rem;
+    }
+
+    .findme-links a {
+        display: block;
+        width: 100%;
+        padding: 0.75rem 0.9rem;
+        border: 1px solid #d7d7d7;
+        border-radius: 10px;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .findme-links a:hover,
+    .findme-links a:focus {
+        border-color: #8f8f8f;
+    }
+}
