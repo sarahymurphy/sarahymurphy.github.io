@@ -1,38 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-    <url>
-        <loc>http://localhost:4000/readability-feature-post/</loc>
-        
-        <lastmod>2024-02-11T00:00:00-05:00</lastmod>
-        
-
-        
-        <changefreq>always</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/welcome-to-jekyll/</loc>
-        
-        <lastmod>2024-02-10T16:49:03-05:00</lastmod>
-        
-
-        
-        <changefreq>always</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://www.sarahymurphy.com/RReticulate/</loc>
+<lastmod>2021-04-14T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/PythonIntroDay1/</loc>
+<lastmod>2021-09-10T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/PythonIntroDay2/</loc>
+<lastmod>2021-09-17T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/PackageManagement/</loc>
+<lastmod>2021-09-24T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/xarray/</loc>
+<lastmod>2022-02-07T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/brandnew-tour/</loc>
+<lastmod>2025-10-06T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/_pages/about/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/_pages/findme/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/tags/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/workshops/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/posts/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/pubs/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/talks/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/talks/r-reticulate-tutorial/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/_pages/weather/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/_pages/wxstation/</loc>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/assets/pdfs/CV_SYMurphy.pdf</loc>
+<lastmod>2025-10-10T09:33:20-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/assets/pdfs/hanrahanetal-2017.pdf</loc>
+<lastmod>2025-08-31T17:19:46-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/assets/pdfs/murphy-2023.pdf</loc>
+<lastmod>2025-08-31T17:24:39-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/workshops/GithubPages.html</loc>
+<lastmod>2025-09-23T19:39:19-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.sarahymurphy.com/workshops/Intro-to-Python-programming.html</loc>
+<lastmod>2025-09-23T19:39:19-04:00</lastmod>
+</url>
 </urlset>

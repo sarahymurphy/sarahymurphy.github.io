@@ -27,9 +27,9 @@ sitemap: false
 @import "print";
 
 // Page-specific styles
-@import "publications";
-@import "presentations";
-@import "post-list";
-@import "workshops";
-@import "page-styles";
+@import "pages/publications";
+@import "pages/presentations";
+@import "pages/post-list";
+@import "pages/workshops";
+@import "pages/page-styles";
 
