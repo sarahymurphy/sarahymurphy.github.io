@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Find me online
+permalink: /findme/
 tags: 
 date: 2024-02-11
 comments: false

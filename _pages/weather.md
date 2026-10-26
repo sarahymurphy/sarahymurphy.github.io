@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Weather Data
+permalink: /weather/
 tags: 
 date: 2024-02-11
 comments: false

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 tags: 
 date: 2024-02-11
 comments: false

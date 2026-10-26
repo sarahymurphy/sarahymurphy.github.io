@@ -122,12 +122,15 @@ Optional front matter:
 
 ### New page
 
-Create a `.md` or `.html` file in `_pages/` with `layout: page`. Add it to `_data/navigation.yml` if it should appear in the nav. The global `/:title/` permalink applies automatically.
+Create a `.md` or `.html` file in `_pages/` with `layout: page`. Add it to `_data/navigation.yml` if it should appear in the nav.
+
+Pages in `_pages/` **must declare an explicit `permalink`** in their front matter. The site's global `permalink: /:title/` rule only applies to posts — without a `permalink`, a page would build to `/_pages/your-page/` instead of a clean top-level URL, and any links pointing at `/your-page/` would 404.
 
 ```yaml
 ---
 layout: page
 title: "Page Title"
+permalink: /page-title/
 comments: false
 ---
 ```
